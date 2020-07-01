@@ -21,10 +21,10 @@
   "Enable Snow": false,
   "Dictionary Types": [
     "WET",
-    "JUNGLE",
-    "HOT",
+    "DENSE",
     "HILLS",
-    "DENSE"
+    "HOT",
+    "JUNGLE"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -143,6 +143,12 @@
       "Weight": 15,
       "Min Group Count": 1,
       "Max Group Count": 1
+    },
+    {
+      "Entity Class": "com.mr208.rewired.common.entities.EntityCyberSkeleton",
+      "Weight": 60,
+      "Min Group Count": 1,
+      "Max Group Count": 3
     }
   ],
   "Spawnable Water Creatures": [

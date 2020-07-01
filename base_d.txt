@@ -34,6 +34,7 @@
 /config/adpother/Items
 /config/adpother/Respirators
 /config/adpother/Emitters
+/config/ReWIRED
 /config/universeguard
 /config/universeguard/globals
 /config/toughasnails
@@ -47,6 +48,7 @@
 /config/skinsrestorer
 /config/pyrotech
 /config/sereneseasons
+/config/extraskills
 /config/machinemuse
 /config/machinemuse/cosmeticpresets
 /config/machinemuse/cosmeticpresets/powerarmor_feet

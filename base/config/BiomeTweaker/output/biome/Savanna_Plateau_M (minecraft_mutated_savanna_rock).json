@@ -20,12 +20,12 @@
   "Enable Rain": false,
   "Enable Snow": false,
   "Dictionary Types": [
-    "SPARSE",
+    "DRY",
+    "RARE",
+    "HILLS",
     "SAVANNA",
     "HOT",
-    "HILLS",
-    "RARE",
-    "DRY"
+    "SPARSE"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -138,6 +138,12 @@
       "Weight": 15,
       "Min Group Count": 1,
       "Max Group Count": 1
+    },
+    {
+      "Entity Class": "com.mr208.rewired.common.entities.EntityCyberSkeleton",
+      "Weight": 60,
+      "Min Group Count": 1,
+      "Max Group Count": 3
     }
   ],
   "Spawnable Water Creatures": [
