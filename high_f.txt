@@ -12,8 +12,6 @@ ca24362c3c696c837a2612aefce21770
 3ce85b56e0ca9d0461dfe3faebe70a98
 /mods/OptiFine_1.12.2_HD_U_E3.jar
 7ec95c57ac1a224d6eb93bd370e4ac37
-/mods/WaitingTime-1.0.1.jar
-134e71e83617824760947ce4a5a9c336
 /mods/betteranimals-1.12.2-5.3.0.jar
 fb2a8a8c11eb4c674cb52833ea8a8bfa
 /mods/SoundFilters-0.12_for_1.12.jar

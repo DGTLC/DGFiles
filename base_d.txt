@@ -56,6 +56,7 @@
 /config/machinemuse/cosmeticpresets/powerarmor_legs
 /config/machinemuse/cosmeticpresets/powerarmor_torso
 /config/machinemuse/cosmeticpresets/power_fist
+/config/gliby_vc
 /config/bStats
 /config/dooglamooworlds
 /config/CustomMainMenu
