@@ -42,8 +42,8 @@ a6a9ca252aad90c95d58e97ac0eb5f80
 3e242bef23544ee58048b21da4054f04
 /mods/1.12.2/Quark-r1.6-178.jar
 8d69c5722fa6498813da16b4d940246d
-/mods/1.12.2/DGWeaponsv1.8.0-CrU.jar
-10b373f40e075138254e400d7ace755f
+/mods/1.12.2/DGWeapons-2.0.0-AU.jar
+4fd2635c995a54c8f97d52547067051a
 /mods/1.12.2/OfflineSkins-1.12.2-v6.jar
 0f6a73ce19399a58687639e282ea057a
 /mods/1.12.2/ImmersiveEngineering-0.12-98.jar
