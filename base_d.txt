@@ -18,7 +18,6 @@
 /config/BiomeTweaker/scripts
 /config/BiomeTweaker/output
 /config/BiomeTweaker/output/dimension
-/config/BiomeTweaker/output/biome
 /config/BiomeTweaker/output/entity
 /config/jei
 /config/dropt
