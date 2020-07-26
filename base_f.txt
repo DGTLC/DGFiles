@@ -90,6 +90,8 @@ aafea85e6d8619a6d30b9477f293112e
 78a16072602c903a32ca289678fa5409
 /mods/1.12.2/AppleCore-mc1.12.2-3.4.0.jar
 a8dd635a81fed59be0d18206fd383f6e
+/mods/1.12.2/LittleTiles_v1.5.0-pre199_34_mc1.12.2.jar
+784c8ed793be7ad49a238f59bf7fe9a8
 /mods/1.12.2/immersivepetroleum-1.12.2-1.1.9.jar
 57ba127778e579d10d705f9f8359d2e0
 /mods/1.12.2/alternatingflux-0.12.2-2.jar
