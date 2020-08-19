@@ -56,14 +56,14 @@ affce9a7f7cb9ab257135da89314e07e
 d2df966203a439ee154642f01f09955e
 /mods/1.12.2/engineersdecor-1.12.2-1.1.1-b1.jar
 d6521fca9d96bbeb73db65f441265e96
-/mods/1.12.2/CompatSkills-1.12.2-1.17.0.jar
-2944bf96254278e54dc0cf946f124703
 /mods/1.12.2/cyberware-1.12.2-0.2.11.24.jar
 30915991eabead92bcf0871a4f9166d8
 /mods/1.12.2/immersiveintelligence-1.12.2-0.1.1.jar
 d726a758db4e1d96cda90248f8410692
 /mods/1.12.2/craftingstation-0.1.7c.jar
 a5b9811fc05890674e04a10e9bd0978a
+/mods/1.12.2/Reskillable-1.12.2-1.13.0.jar
+38e66a09a8f5c90278af66fda95d2764
 /mods/1.12.2/rsgauges-1.12.2-1.2.4.jar
 87d2763139d604a7728f01b50553321c
 /mods/1.12.2/unloader-1.2.0.jar
