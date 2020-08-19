@@ -25,7 +25,7 @@ e8f289624d99a67ee3b78c6524b96b45
 /mods/1.12.2/Immersive+HempCraft-1.12-0.0.7.1.jar
 7940d5440bfc56b55813c791d2e31a7a
 /mods/1.12.2/performant-1.12.2-1.10.jar
-42825558fc36f93c787bdfa41eee474e
+78108b13c8d55046f876c6874b0fcf1a
 /mods/1.12.2/AutoRegLib-1.3-32.jar
 4e5a4b881c27b1e4502a9a16c00882ad
 /mods/1.12.2/oreveins-2.0.13.jar
