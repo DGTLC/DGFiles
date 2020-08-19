@@ -36,7 +36,6 @@
 /config/ReWIRED
 /config/universeguard
 /config/universeguard/globals
-/config/toughasnails
 /config/dsurround
 /config/oreveins
 /config/justenoughdimensions
