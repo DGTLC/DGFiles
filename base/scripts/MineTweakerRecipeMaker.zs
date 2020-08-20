@@ -12,35 +12,6 @@
 
 // ================================================================================
 //#MARKER REMOVE
-recipes.remove(<powersuits:powerarmor_head>);
-recipes.remove(<powersuits:powerarmor_torso>);
-recipes.remove(<powersuits:powerarmor_legs>);
-recipes.remove(<powersuits:powerarmor_feet>);
-recipes.remove(<powersuits:power_fist>);
-recipes.remove(<powersuits:powerarmorcomponent>);
-recipes.remove(<powersuits:powerarmorcomponent:1>);
-recipes.remove(<powersuits:powerarmorcomponent:2>);
-recipes.remove(<powersuits:powerarmorcomponent:3>);
-recipes.remove(<powersuits:powerarmorcomponent:4>);
-recipes.remove(<powersuits:powerarmorcomponent:5>);
-recipes.remove(<powersuits:powerarmorcomponent:6>);
-recipes.remove(<powersuits:powerarmorcomponent:7>);
-recipes.remove(<powersuits:powerarmorcomponent:8>);
-recipes.remove(<powersuits:powerarmorcomponent:9>);
-recipes.remove(<powersuits:powerarmorcomponent:10>);
-recipes.remove(<powersuits:powerarmorcomponent:11>);
-recipes.remove(<powersuits:powerarmorcomponent:12>);
-recipes.remove(<powersuits:powerarmorcomponent:13>);
-recipes.remove(<powersuits:powerarmorcomponent:14>);
-recipes.remove(<powersuits:powerarmorcomponent:14>);
-recipes.remove(<powersuits:powerarmorcomponent:15>);
-recipes.remove(<powersuits:powerarmorcomponent:16>);
-recipes.remove(<powersuits:powerarmorcomponent:17>);
-recipes.remove(<powersuits:powerarmorcomponent:18>);
-recipes.remove(<powersuits:powerarmorcomponent:19>);
-recipes.remove(<powersuits:powerarmorcomponent:20>);
-recipes.remove(<powersuits:powerarmorcomponent:21>);
-recipes.remove(<powersuits:tinkertable>);
 recipes.remove(<locks:key_blank>);
 recipes.remove(<locks:key_ring>);
 
