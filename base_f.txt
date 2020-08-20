@@ -159,41 +159,39 @@ a354da131ad5b1f7df2d346ec5ab0dfb
 /config/chunkanimator.cfg
 839d272da849c782740a279cf23e32b9
 /config/chisel.cfg
-75e0270a341dd41759b18e3d97be12f4
+c61e711e71bf205413d90effbfc5680c
 /config/athenaeum/athenaeum.cfg
-235b60952d284ac5c7418733d3ea6472
-/config/compatskills.cfg
-e0f0783b39b3f40e7c8c53651c3994e2
+342541e85443ea369e6ff61a68b385b5
 /config/immersivepetroleum.cfg
-5de10f18a2c45a3c33f2e3e8d87c9bfa
+51d9635499890bc296ff4125b7e6a4d4
 /config/rfp2.cfg
-d8090cfcb9965638a5f820f3324ecd0b
-/config/First Aid.cfg
-6840a7e90672971ca19554f57e302f71
-/config/Fureniku's Roads.cfg
-d642efb3d155b8d30ef5df1e607e77e1
+172d3d6f4fe2f0d1b4661f981a19e319
 /config/spiceoflife.cfg
-9d8abed721fa1959a0b4314c2cf6530c
+9976ef7112087acda35d8855265c1c60
 /config/betteranimals.cfg
 2d1f28cef02bb61bf24f142ef5eea80d
 /config/immersivetech.cfg
-a8c0eb7a39d209693831cccbaac57c6f
+e448de1d0ec7457e5ca93769565cf709
 /config/treechopper/treechopper.cfg
 09d16646fcb6f919a0ddd06a1d650869
 /config/quark.cfg
-ec025d99befb157d97e97a9faf07f4d6
-/config/dynamicswordskills.cfg
-fc8dbbd78cd7fd55da4bce324912d9d4
+1e17f45348b6d0fc64b6eb714bc52ca7
 /config/PressurePipes/readme.txt
 a31c7deefb9985e7e6338ab2ace29a2c
+/config/SRParasites.cfg
+14d6e21ee9a758f2520bbcab35442fa4
 /config/mcstats.properties
 6587240464542b16d034027281efa8fa
 /config/mtsconfig.json
 4611d9592e30a8923cb8af693287a879
+/config/pjc/pjc.conf
+b49a4f9a111620e0e9baf09dc7375e06
+/config/authentic/authentic.conf
+9cfa9d0f1c9bfad9dfcd6da79d0cd6df
 /config/jeiintegration.cfg
 7d493678946a7cf99f632c06c858c4fb
 /config/locks.cfg
-1239e2fc37f00f39ebfb1b29222508d8
+f393b9e14d7fe5de04e632ccdf607e27
 /config/forgeendertech/Biomes/beaches.cfg
 bc88a8591f63ce59f4e6c247186f0157
 /config/forgeendertech/Biomes/jungle.cfg
@@ -225,9 +223,11 @@ ebbc62abe271a9d80cd57de2f3f8c3e2
 /config/badmobs.cfg
 a96341da20b92de51566d6477ef34924
 /config/phosphor.json
-fc25a7c7881e0013d8b81955caea2691
+3403e8e7c74fcbf72e5bc538c7379633
 /config/adchimneys/adchimneys.cfg
 4b9688787873c880530baf09cdf8166d
+/config/adchimneys/nppBackup/smoker.cfg.2020-08-19_195609.bak
+5914fedcfec0f602f01d06cfa6651245
 /config/adchimneys/Containers/stonebrick_mossy.cfg
 876600ebab11e0df0b69d736af9e1b86
 /config/adchimneys/Containers/diamond_block.cfg
@@ -555,7 +555,7 @@ c17cc8e9983fc7f4aaefd377689a3df9
 /config/adchimneys/groups.cfg
 410ca7aaca698acddf6b29e33b466c2e
 /config/adchimneys/smoker.cfg
-5914fedcfec0f602f01d06cfa6651245
+8cec394133a1a80b21b075379e5bc1fd
 /config/adchimneys/Emitters/furnaceoverhaul$end_furnace.cfg
 e18707b50990bb0399aac3527b0bbf01
 /config/adchimneys/Emitters/rockhounding_oretiers$bloomery.cfg
@@ -647,7 +647,7 @@ ecf8560ed322c9ae981fcf2f69d39603
 /config/adchimneys/Emitters/mysticalagriculture$inferium_furnace_active.cfg
 979b3e88d87f4d87e8641a74238be2c8
 /config/adchimneys/Emitters/ic2$geothermal_generator.cfg
-3f0c346d40c7085eb5d17d24db5f20d7
+39404f18a93c982004d89422f7caf5b4
 /config/adchimneys/Emitters/ic2classic$generator.cfg
 4803b2b2ab18ef280582b1b28780baa3
 /config/adchimneys/Emitters/mysticalagriculture$prudentium_furnace_active.cfg
@@ -815,7 +815,7 @@ e6c68b3cce3dbb823885ce05f01847ef
 /config/adchimneys/Emitters/morefurnaces$golden_furnace.cfg
 0abdd87fee1a24730de58c8f35438414
 /config/adchimneys/Emitters/magneticraft$combustion_chamber.cfg
-ddff19f50e2e7dd3a11d75680e8e59ec
+5ac0cd61dfaa5f21f50cdb4c5d139d14
 /config/adchimneys/Emitters/immersiveengineering$improved_blast_furnace.cfg
 d19d0f1fcd49d398a4fcf22c7bd5d6d1
 /config/adchimneys/Emitters/omegacraft$hungry_generator.cfg
@@ -825,7 +825,7 @@ e5253e52c205ec4ae686cd376dbd5af4
 /config/adchimneys/Emitters/projecte$dm_furnace_lit.cfg
 7fd06955aa8856d59f40904e199c64bd
 /config/adchimneys/Emitters/magneticraft$big_combustion_chamber.cfg
-a876cf61bf0792d6a976c5724f412b32
+a52b66b559f79473705a12d7a0586d21
 /config/adchimneys/Emitters/ic2$_common_0.cfg
 1bbaf602bef5fe349522a823400ec6f3
 /config/adchimneys/Emitters/draconicevolution$generator.cfg
@@ -847,7 +847,7 @@ a56993c6ccec7da54faccefcdaa19fb7
 /config/adchimneys/Emitters/furnus$furnus.cfg
 fe4302694f16b5295cb303a1e283ce3c
 /config/adchimneys/Emitters/ic2$semifluid_generator.cfg
-ed6fb0cfe11b4b8a2e17ae52903e1a27
+6434c1f46adfe23168a68d6132909af8
 /config/adchimneys/Emitters/thermalexpansion$redstone_furnace.cfg
 666e390ce2dd99f38d272a4dbece65af
 /config/adchimneys/Emitters/techreborn$iron_alloy_furnace.cfg
@@ -861,265 +861,13 @@ a340ed35ef641deac5ef3c9707a34a9c
 /config/CustomNpcs.cfg
 6f7483dbdd0c0bd3396aa363c8dae9fc
 /config/DiscordSuite.cfg
-43f9a0d73297dd2a832db129008e638c
-/config/reskillable.cfg
-c423a202aa170fcdb5e3c8554991fdf7
+6a5ea34c6afd938672bf997f527a56bf
 /config/oreveins.cfg
-05d02220470472cf18e8c11303acb93a
+7ec458d9f5a636ac410575ca88d9d531
 /config/hardcoredarkness.cfg
 fe483c0d9c5d6d5ddf63a7a77e72609f
-/config/BiomeTweaker/output/dimension/the_nether (_nether).json
-6d1540d666101116c2e3f17fb99cb699
-/config/BiomeTweaker/output/dimension/the_end (_end).json
-39638c9b4d3c58536d04c38d39dce3c4
-/config/BiomeTweaker/output/dimension/overworld ().json
-ff9a42d3b05bb54926069d79f2aba2dd
-/config/BiomeTweaker/output/entity/MushroomCow (minecraft_mooshroom).json
-7926e701bbed9f0f5c7eb4ca09dcf73d
-/config/BiomeTweaker/output/entity/Stray (minecraft_stray).json
-ec8bf04e36ff3ad526f89ed7a078e91b
-/config/BiomeTweaker/output/entity/betteranimalsplus.tarantula (betteranimalsplus_tarantula).json
-3dc986c0f9be8a8afdc0d36dbf0fb8a4
-/config/BiomeTweaker/output/entity/Squid (minecraft_squid).json
-87488264720dda4bf3bab40c4c1782a9
-/config/BiomeTweaker/output/entity/betteranimalsplus.eel_freshwater (betteranimalsplus_eel_freshwater).json
-7b1de00c493e4f591ee89f637085446e
-/config/BiomeTweaker/output/entity/betteranimalsplus.brownbear (betteranimalsplus_brownbear).json
-b6eb36d68ee682f48c51f7cba3492c48
-/config/BiomeTweaker/output/entity/quark_crab (quark_crab).json
-fc71c4d6e2567812380182a5cb012348
-/config/BiomeTweaker/output/entity/npcGolem (customnpcs_npcgolem).json
-891feb7a02b18d64acd2e4466de15530
-/config/BiomeTweaker/output/entity/Skeleton (minecraft_skeleton).json
-52bedb9aa20bb5a42c778728fd1730b6
-/config/BiomeTweaker/output/entity/Bat (minecraft_bat).json
-62c66ec55c666f989581f1d3e3f0b496
-/config/BiomeTweaker/output/entity/npczombiemale (customnpcs_npczombiemale).json
-dea1b24ceca054045ef7156dd1deb724
-/config/BiomeTweaker/output/entity/betteranimalsplus.jellyfish (betteranimalsplus_jellyfish).json
-c5330ed0bc99e537021974b79ceb1934
-/config/BiomeTweaker/output/entity/betteranimalsplus.eel_saltwater (betteranimalsplus_eel_saltwater).json
-b9e773fc0b4937c374047004014f8eaa
-/config/BiomeTweaker/output/entity/CustomNpc64x32 (customnpcs_customnpc64x32).json
-7aeeb52bd9db1a5163e433e81a692b30
-/config/BiomeTweaker/output/entity/npcvillager (customnpcs_npcvillager).json
-efd9ed82ed16fe26b8d3f49d557433dd
-/config/BiomeTweaker/output/entity/quark_ashen (quark_ashen).json
-f2ee485c661ec06cd1f3b9566dd77a56
-/config/BiomeTweaker/output/entity/Horse (minecraft_horse).json
-36d0df2a76b03b98a4bb68bf2eeae2bd
-/config/BiomeTweaker/output/entity/cyberskeleton (rewired_cyberskeleton).json
-eaaadea4dd38493a915879e465a8da34
-/config/BiomeTweaker/output/entity/quark_frog (quark_frog).json
-ec223725e0a957ca46f0a6de0a4e2b3c
-/config/BiomeTweaker/output/entity/EvocationIllager (minecraft_evocation_illager).json
-d0e88ceb09b80acb1b9b1249403d68bb
-/config/BiomeTweaker/output/entity/npcfurryfemale (customnpcs_npcfurryfemale).json
-4758a3b25fc3cd7f849c99de7e12293c
-/config/BiomeTweaker/output/entity/betteranimalsplus.lammergeier (betteranimalsplus_lammergeier).json
-e0da43d71a82dc06fae29d586e983c6e
-/config/BiomeTweaker/output/entity/Giant (minecraft_giant).json
-c4473a192e7fd86633a9d6fdce9d83fc
-/config/BiomeTweaker/output/entity/npchumanfemale (customnpcs_npchumanfemale).json
-9ac3ee6118c36297212289681469d118
-/config/BiomeTweaker/output/entity/CustomNpcAlex (customnpcs_customnpcalex).json
-0c6fae35125041f2372b5f036f2c61e1
-/config/BiomeTweaker/output/entity/betteranimalsplus.feralwolf (betteranimalsplus_feralwolf).json
-b640bdc4831e7840c4ec32a0a4314e82
-/config/BiomeTweaker/output/entity/Llama (minecraft_llama).json
-8395b3c0538540b852fb226a1896c46c
-/config/BiomeTweaker/output/entity/betteranimalsplus.bobbit_worm (betteranimalsplus_bobbit_worm).json
-ac60037fa45726281cfb691aa9efe97a
-/config/BiomeTweaker/output/entity/npcEnderman (customnpcs_npcenderman).json
-c52bc6540d280d10d47e104557ccb7ce
-/config/BiomeTweaker/output/entity/betteranimalsplus.zotzpyre (betteranimalsplus_zotzpyre).json
-f3c29da0d208b67289ccaf0dc19d316a
-/config/BiomeTweaker/output/entity/betteranimalsplus.reindeer (betteranimalsplus_reindeer).json
-1ca5a59b03a2ffafc7355f1a9dd77eed
-/config/BiomeTweaker/output/entity/IllusionIllager (minecraft_illusion_illager).json
-769be24fe48f56378c5197d4aa836101
-/config/BiomeTweaker/output/entity/quark_leash_knot (quark_leash_knot).json
-e21c593842b1175c13973b401d545cf0
-/config/BiomeTweaker/output/entity/Zombie (minecraft_zombie).json
-cc3238458f7848419507683d39e76d7a
-/config/BiomeTweaker/output/entity/SnowMan (minecraft_snowman).json
-1d1c2341cbfb4eed86c555b5571b1f0a
-/config/BiomeTweaker/output/entity/quark_stoneling (quark_stoneling).json
-db2c9a5125d321d3b10e75749852f3be
-/config/BiomeTweaker/output/entity/npcenderchibi (customnpcs_npcenderchibi).json
-4d2528985e661fa0ffa6bf35b1d88bf9
-/config/BiomeTweaker/output/entity/NpcDragon (customnpcs_npcdragon).json
-69c7ae926a93d3f6b5d3e8be0cba366e
-/config/BiomeTweaker/output/entity/betteranimalsplus.songbird (betteranimalsplus_songbird).json
-f39554bf21f1ce9080eabbccb9a94df2
-/config/BiomeTweaker/output/entity/Creeper (minecraft_creeper).json
-fe4a0afabd6bbef6a36fc16f8c04cd19
-/config/BiomeTweaker/output/entity/VindicationIllager (minecraft_vindication_illager).json
-4b0645af873142abc4f03f69e04f17c7
-/config/BiomeTweaker/output/entity/ZombieVillager (minecraft_zombie_villager).json
-3d37c92042804412fdc98212fbccfac5
-/config/BiomeTweaker/output/entity/betteranimalsplus.shark (betteranimalsplus_shark).json
-750aae08606d3d29ec5c3dd08e6be719
-/config/BiomeTweaker/output/entity/Silverfish (minecraft_silverfish).json
-92f91142e8aeae441b6383424189239b
-/config/BiomeTweaker/output/entity/VillagerGolem (minecraft_villager_golem).json
-3b5424ef0c74e569ea96c1b811c7c146
-/config/BiomeTweaker/output/entity/Blaze (minecraft_blaze).json
-641f641a51c6c43fefd56f6ebf233796
-/config/BiomeTweaker/output/entity/betteranimalsplus.whale (betteranimalsplus_whale).json
-473f48f379650cc707e75235477e37a1
-/config/BiomeTweaker/output/entity/Guardian (minecraft_guardian).json
-c453fb77cab2b48fea13a1e6d143c786
-/config/BiomeTweaker/output/entity/betteranimalsplus.coyote (betteranimalsplus_coyote).json
-84f9d21bfd33e5f920233398e0fee421
-/config/BiomeTweaker/output/entity/ElderGuardian (minecraft_elder_guardian).json
-e4a47db79555b518c5ecb740e1b70f97
-/config/BiomeTweaker/output/entity/npcpony (customnpcs_npcpony).json
-8f16a5739944910e4316452d47d3ee68
-/config/BiomeTweaker/output/entity/betteranimalsplus.lamprey (betteranimalsplus_lamprey).json
-f0fff2ae463d635d0fcd4d79c5799cc1
-/config/BiomeTweaker/output/entity/Spider (minecraft_spider).json
-4cd39a4577532047a1604d1381d4b80e
-/config/BiomeTweaker/output/entity/npcdwarffemale (customnpcs_npcdwarffemale).json
-c2079b50a8f136a01bf7177316cce6a3
-/config/BiomeTweaker/output/entity/WitherSkeleton (minecraft_wither_skeleton).json
-81ef0c50e894665d0089915d871a2629
-/config/BiomeTweaker/output/entity/Enderman (minecraft_enderman).json
-11e1af98d875290f2a18ec57a19f4eb7
-/config/BiomeTweaker/output/entity/EnderDragon (minecraft_ender_dragon).json
-7c9727ae070c8ddc8120db6c429f220f
-/config/BiomeTweaker/output/entity/betteranimalsplus.goose (betteranimalsplus_goose).json
-6c2c00f55fc433a689b8723e2b46c763
-/config/BiomeTweaker/output/entity/betteranimalsplus.walrus (betteranimalsplus_walrus).json
-fe4e0c3b05f6fc2a7ed893c9278694fc
-/config/BiomeTweaker/output/entity/Sheep (minecraft_sheep).json
-d2533bb3cd0f24b23fdf6eb91a163eba
-/config/BiomeTweaker/output/entity/quark_wraith (quark_wraith).json
-6df9b18a8f25e916667a9f7c8b004fef
-/config/BiomeTweaker/output/entity/NpcSlime (customnpcs_npcslime).json
-9515dee487c4c0ba48e6b08c88ef26fa
-/config/BiomeTweaker/output/entity/Mule (minecraft_mule).json
-3d1ba7b3a47880da9ea8bb4edc950dc0
-/config/BiomeTweaker/output/entity/CustomNpcClassic (customnpcs_customnpcclassic).json
-929c1f192b50a42822dfc4c2408e56d4
-/config/BiomeTweaker/output/entity/quark_archaeologist (quark_archaeologist).json
-e1fcede5e3d6f0c521de18b89ed73c9b
-/config/BiomeTweaker/output/entity/npchumanmale (customnpcs_npchumanmale).json
-973177ac7815bb5e86e19538a4c16c68
-/config/BiomeTweaker/output/entity/betteranimalsplus.fox (betteranimalsplus_fox).json
-ea9b0ac7d51424e5fbbd84087a2e8119
-/config/BiomeTweaker/output/entity/betteranimalsplus.blackbear (betteranimalsplus_blackbear).json
-625480c8581585c5f75640139492f2b4
-/config/BiomeTweaker/output/entity/CustomNpc (customnpcs_customnpc).json
-db64c3c1838be1e052e61d12a7000da0
-/config/BiomeTweaker/output/entity/PigZombie (minecraft_zombie_pigman).json
-b01989baae415fa6b175b9a8cf4a6949
-/config/BiomeTweaker/output/entity/LavaSlime (minecraft_magma_cube).json
-15f51886650d1d0a52924f22051744d9
-/config/BiomeTweaker/output/entity/Slime (minecraft_slime).json
-2d9702a281ee48ddace82c88f25b126a
-/config/BiomeTweaker/output/entity/Chicken (minecraft_chicken).json
-c6294cae07c0f6f73edc8e566b4d1ed9
-/config/BiomeTweaker/output/entity/PolarBear (minecraft_polar_bear).json
-c5c4dcef796270099311ea861e19319c
-/config/BiomeTweaker/output/entity/Villager (minecraft_villager).json
-7cfb5189eb18e7a2c06318971e0fccfc
-/config/BiomeTweaker/output/entity/betteranimalsplus.moose (betteranimalsplus_moose).json
-1d2324bba7462bfd68384897f712e8c9
-/config/BiomeTweaker/output/entity/betteranimalsplus.goat (betteranimalsplus_goat).json
-22938b6fe15e932c70485704608c54ca
-/config/BiomeTweaker/output/entity/ZombieHorse (minecraft_zombie_horse).json
-f0691458c7c5bd43f1801f59c46cb396
-/config/BiomeTweaker/output/entity/CaveSpider (minecraft_cave_spider).json
-5f94a15bf4e2b4b1a472f0b6dc043fda
-/config/BiomeTweaker/output/entity/npczombiefemale (customnpcs_npczombiefemale).json
-50569ff855e16565ea0d84422bdb4804
-/config/BiomeTweaker/output/entity/betteranimalsplus.crab (betteranimalsplus_crab).json
-8ebf3baa55ae329ef2ec8b3a281a3eda
-/config/BiomeTweaker/output/entity/npcnagafemale (customnpcs_npcnagafemale).json
-737e100cfd1ceefb4024524a9006d6f5
-/config/BiomeTweaker/output/entity/Vex (minecraft_vex).json
-eb75401512a831b94994af91f655487e
-/config/BiomeTweaker/output/entity/npcelffemale (customnpcs_npcelffemale).json
-5f6b974d5afe01440d5b72d28b7a9564
-/config/BiomeTweaker/output/entity/Parrot (minecraft_parrot).json
-e65ca88dd75a877b7ae8dc23a7345442
-/config/BiomeTweaker/output/entity/betteranimalsplus.pheasant (betteranimalsplus_pheasant).json
-5bcfc6a6ceb27c160190dd10c956a4c4
-/config/BiomeTweaker/output/entity/Pig (minecraft_pig).json
-65d8bcf5f998c0334bd4e36aaed98229
-/config/BiomeTweaker/output/entity/Donkey (minecraft_donkey).json
-f9a6dcefd3b2033c3771ea4536daa2e9
-/config/BiomeTweaker/output/entity/quark_dweller (quark_dweller).json
-5a2b3539a1374ceae181c5bcdd9787fb
-/config/BiomeTweaker/output/entity/npcelfmale (customnpcs_npcelfmale).json
-26482891df206a0feb51b6f8f35b0ff9
-/config/BiomeTweaker/output/entity/betteranimalsplus.squirrel (betteranimalsplus_squirrel).json
-186e0ec10ed077c1317a77ecde9da9db
-/config/BiomeTweaker/output/entity/betteranimalsplus.horseshoecrab (betteranimalsplus_horseshoecrab).json
-e64e1cf4f4e8dfa39c0d739423473811
-/config/BiomeTweaker/output/entity/cyberzombie (cyberware_cyberzombie).json
-5f32f810619ed20a31fc5cf666b4b110
-/config/BiomeTweaker/output/entity/Endermite (minecraft_endermite).json
-f7a1eb054908f4fceb665aa1112d13ba
-/config/BiomeTweaker/output/entity/WitherBoss (minecraft_wither).json
-959fea183b65e2000dc87f6dba47509e
-/config/BiomeTweaker/output/entity/Wolf (minecraft_wolf).json
-59bf7ac4bd71e7b44640c873cb8bac4f
-/config/BiomeTweaker/output/entity/Witch (minecraft_witch).json
-07e493e3a2093ab85008d3489454ab9f
-/config/BiomeTweaker/output/entity/betteranimalsplus.turkey (betteranimalsplus_turkey).json
-3ada57a6f62cf3607a2d2e5c40398b24
-/config/BiomeTweaker/output/entity/betteranimalsplus.hirschgeist (betteranimalsplus_hirschgeist).json
-6b941df6703af14151d0502a9c55cac7
-/config/BiomeTweaker/output/entity/quark_foxhound (quark_foxhound).json
-d6987cf6d0c210a009633b615e215fca
-/config/BiomeTweaker/output/entity/Shulker (minecraft_shulker).json
-b6ee161214784cdce8de8fb47e40dd43
-/config/BiomeTweaker/output/entity/betteranimalsplus.nautilus (betteranimalsplus_nautilus).json
-1dff804e79cb4ca1fb53164c059843dc
-/config/BiomeTweaker/output/entity/betteranimalsplus.kermodebear (betteranimalsplus_kermodebear).json
-f29124614b04d3dcc454d7a4655061b8
-/config/BiomeTweaker/output/entity/Cow (minecraft_cow).json
-06de339c03408bb19910d938cddc5673
-/config/BiomeTweaker/output/entity/npcnagamale (customnpcs_npcnagamale).json
-d22d983bf8389ca21940420657d63cf6
-/config/BiomeTweaker/output/entity/npcdwarfmale (customnpcs_npcdwarfmale).json
-0b2349a356874d332629d1c8a0c8197c
-/config/BiomeTweaker/output/entity/npccrystal (customnpcs_npccrystal).json
-197e07d93aab76ee490a514e08470e74
-/config/BiomeTweaker/output/entity/Husk (minecraft_husk).json
-1668cb097ac5832f693fe2e6865e1b4d
-/config/BiomeTweaker/output/entity/SkeletonHorse (minecraft_skeleton_horse).json
-d1cbfee83416c10c68418016809febb6
-/config/BiomeTweaker/output/entity/npcorcfemale (customnpcs_npcorcfemale).json
-5ed0326058106e239b1b647405dea8b6
-/config/BiomeTweaker/output/entity/npcfurrymale (customnpcs_npcfurrymale).json
-054d01d959e60eff2e7a1b760f516b7c
-/config/BiomeTweaker/output/entity/npcorcfmale (customnpcs_npcorcfmale).json
-06090299d0838a38f6cf78d990a9b1fb
-/config/BiomeTweaker/output/entity/Ozelot (minecraft_ocelot).json
-975a0c170c8e948cc91280859ad9c367
-/config/BiomeTweaker/output/entity/quark_pirate (quark_pirate).json
-29c1f33246fc8156f4eb5d7b57b51e6f
-/config/BiomeTweaker/output/entity/Ghast (minecraft_ghast).json
-e4a2ca2421aae112eb11f5d92727780c
-/config/BiomeTweaker/output/entity/betteranimalsplus.boar (betteranimalsplus_boar).json
-5907d993e9bcad9953efb8374658e297
-/config/BiomeTweaker/output/entity/Rabbit (minecraft_rabbit).json
-33a8ca623727589a5688329df096202f
-/config/BiomeTweaker/output/entity/npcskeleton (customnpcs_npcskeleton).json
-e5662d757ca97b053bb1d36ceaaca6e3
-/config/BiomeTweaker/output/entity/betteranimalsplus.deer (betteranimalsplus_deer).json
-1d57bf49735607b45d0c08a6a3e68b7d
-/config/BiomeTweaker/output/entity/betteranimalsplus.badger (betteranimalsplus_badger).json
-e0991b9f88d9f022fdb5b595e149ece3
-/config/BiomeTweaker/BiomeTweaker.cfg
-2e940882c0d872508cecea8cc52ca2da
 /config/attributefix.cfg
 b7996b03d9f2a5165182e15bb63aceea
-/config/roughtweaks.cfg
-db3fa1cf8205d0cd92a94f4036dd006c
 /config/jei/itemBlacklist.cfg
 9b2ce4f46cb7ae0ce613967f711dc783
 /config/jei/worldSettings.cfg
@@ -1129,15 +877,13 @@ db3fa1cf8205d0cd92a94f4036dd006c
 /config/jei/jei.cfg
 6cdac0a091a41cb58c72724f85334e13
 /config/ctm.cfg
-9ada28a3eafd037ad08564012ee2fbe7
+ca9092804c3d5576e34098746b2843ff
 /config/immersiveengineering.cfg
-e7e0e25d1326ea83a822bfbdc6f4b408
+31f3a960fbb33019041008976e3575d5
 /config/chopdownupdated.cfg
-fc03ebbe502725ac7a6a66c5927d9b30
+3b4431598e80e5ac5887b2a7ee75db6a
 /config/engineersdoors.cfg
-130eb6fe7617182dd49217a22327c261
-/config/alcatrazcore.cfg
-46e3765b59d11c3693d0d4bc7d605920
+b454ee84498d520ffa304e5301f2bc2f
 /config/adpother/Fuels/wood.cfg
 4b4d5e29cddca4ca31c603b8a7b4f82d
 /config/adpother/Fuels/fence.cfg
@@ -1603,7 +1349,7 @@ e1f5399982d84c6a7479678c29dcdc0c
 /config/adpother/Sources/lava_mixing_water.cfg
 81c81d702c62b18b2b964d6c3b841e48
 /config/adpother/Blocks/filter.cfg
-65a37d3e9325f2486453e7995e33429c
+6d9599e8a49111118bf2f2b75085672c
 /config/adpother/Pollutants/sulfur.cfg
 7e73ecf21b640f09105a795632149544
 /config/adpother/Pollutants/dust.cfg
@@ -1761,7 +1507,7 @@ c919e514b04cebed30a41480fa62c17e
 /config/adpother/Items/vacuum_bag.cfg
 66818910eeb6102ee911db90b8741f30
 /config/adpother/adpother.cfg
-280d84e2a461e9c59ce29b8b67b5f3d5
+8f086c36cd2695ab9ef0619181ece7d7
 /config/adpother/Respirators/adpother$diamond_respirator.cfg
 7393125142eb11577e941a9f4cc1fbfe
 /config/adpother/Respirators/nuclearcraft$helm_hazmat.cfg
@@ -1799,7 +1545,7 @@ b667cc6f7d0b32e4a8a7600b991d8098
 /config/adpother/Emitters/rockhounding_oretiers$bloomery.cfg
 3d1b3027f2a1338a96b0968f5285e308
 /config/adpother/Emitters/f0_resources$burner_drill.cfg
-0fd3b61757531dc7285e454acf67e03f
+67a6266bb93bbb4dc52d84b9333e2b2f
 /config/adpother/Emitters/ic2classic$wood_gasificator.cfg
 f5a789247f034b8f8d4899f0c8345019
 /config/adpother/Emitters/omegacraft$dark_crusher.cfg
@@ -1865,7 +1611,7 @@ faf47ab8d7c07b6a104afc91d0c260ad
 /config/adpother/Emitters/tcomplement$high_oven_controller.cfg
 9e7dcf6cdbf97c350cbc35f4c6b2d1a6
 /config/adpother/Emitters/ic2$geothermal_generator.cfg
-86dd9eefaba5e03f9a4c7db9aefde2b8
+5464e4daa3b0df7cf9c07a2236b7190b
 /config/adpother/Emitters/ic2classic$generator.cfg
 3c32a704386d4634fb929a3e6a1d7f76
 /config/adpother/Emitters/mts$vehicleg_car.cfg
@@ -1955,7 +1701,7 @@ ac2c5b2feb00b01cbf589a306a16dac6
 /config/adpother/Emitters/libvulpes$coal_generator.cfg
 b9beb57f4b787fd0b9f76e73e04a84df
 /config/adpother/Emitters/f0_resources$drill.cfg
-9a85e8bcd2fd5d3492c6404ce11c0d9d
+981c7e3f52a1b7586fa7af2f8393ee24
 /config/adpother/Emitters/immersiveengineering$sample_drill.cfg
 2f1bc6b47a5362b138ae984c81a79a55
 /config/adpother/Emitters/mekanism$basic_crushing_factory.cfg
@@ -2015,13 +1761,15 @@ c7fcfd20e0189e1dfaebed0e9f54cdcf
 /config/adpother/Emitters/thaumcraft$smelter_thaumium.cfg
 701e6d59bab39ba92380d20f864e6201
 /config/adpother/Emitters/ic2$semifluid_generator.cfg
-bb53274e727d7cf48e134bfdee699739
+57f8809d6ab02015e8c1224e451ebcae
 /config/adpother/Emitters/ic2classic$fuel_boiler.cfg
 cf33e98be0c59308fc54e221da605558
 /config/adpother/Emitters/tcomplement$melter.cfg
 b3139012d19037aea20dc1cb2dc4b8c0
+/config/rsgauges.cfg
+5e0d49b1fc5d7d969d83db4cea281590
 /config/energyconverters.cfg
-84897feef3625b019d27d4b4c37b7d21
+0cf46625257a463379fc0a2016f49199
 /config/ReWIRED/Compat.cfg
 46fd7c04c2af5ac6002318c6f22c8a4b
 /config/ReWIRED/Augments.cfg
@@ -2035,45 +1783,47 @@ a2b2cc78d123e684a196664604fb826a
 /config/offlineskins.cfg
 49379da7c42398f07ffdde5f901cb8e2
 /config/plethora-core.cfg
-d25e771f0a38a840cb19b61a3987e781
-/config/universeguard/globals/7b8415d3-c004-4bd8-84b2-dede9aae7a41.json
-c3e803fb2da5d37231094aae6350191e
-/config/universeguard/globals/92ea1571-d463-4af9-b526-cb9fb349d13b.json
-d883159a9d8c536495d6984a035d5a36
-/config/universeguard/globals/8d0eb5c3-a6f9-408e-ac11-47cc0709a5c3.json
-b395aa03c1e8bf8e376a3c80b88290ce
-/config/universeguard/globals/4fe679cf-df9f-4252-a79e-0bfe90ddbf5d.json
-df9c0d51bf32d23cb8134192891775b2
-/config/universeguard/index.json
-ed0ede2a9eae22ae61ceb79cccd99922
+1967344911befbb042450130c687bebf
+/config/craftingstation.cfg
+2feda341544d0d90a11cacae381125c9
 /config/betteranimalsplus.cfg
 2396d4df8e574917512e812127a02888
 /config/patchouli.cfg
-b85c044da12d8e469da8fd84cff9a9e2
+4c45a70bd7fd87caa4fed16b558cdd86
 /config/betterfps.json
 9fafc11a63bc72f6d2cfa5a3e3ebd02b
 /config/immersivehempcraft.cfg
 ac5f74cc1b54c87201fbe652ce77c56d
+/config/toughasnails/material_temperature.json
+a691f3abd9d08d27c09aab55e4418fbd
+/config/toughasnails/drink_stats.json
+1c4b6be497e0a192c0ef5b4c076cc74c
+/config/toughasnails/armor_temp_modifiers.json
+24f8d530169130749c9230dbf360d82b
+/config/toughasnails/block_temperature.json
+aa0ad68ffa2e9c0b358c0d05e4d30466
+/config/toughasnails/brewcraft drink stats.txt
+7f8d86578547123df252ed6bf90cac04
+/config/toughasnails/gameplay.cfg
+1d60bb41b735fce3cf4db10992fb9536
+/config/toughasnails/temperature.cfg
+84f32fb3902de40898b97fcde6620d50
 /config/realistictorches.cfg
 2402d46df98ef258df55f351ea5d6aa8
 /config/harvestcraft.cfg
 78c5038a6589ae20273e2fe1dcfc0843
 /config/dsurround/dsurround.cfg
 8eb18be759ec1fce6d9966a1342db3a3
-/config/chiselsandbits_clipboard.cfg
-81a185486284d8535c75e8cac8e562fd
 /config/corpse.cfg
-a5bba2df2fb864ec173b02009eb3d2c9
+523e3f17a59c16b16bc3f0fe86588ac4
 /config/forgeChunkLoading.cfg
 255d6e9355788641e30db10e3c0b8551
 /config/forge.cfg
-fccc240ca3b193671265b216f77dc122
+403468510424b7f8f03b8f7dcfec0571
 /config/backpack.cfg
 5782833b897f081e5c126d597d0c5e68
 /config/oreveins/diorite_veins.json
 213bf10b3126b17928e6ae0b71718a82
-/config/oreveins/old_ore_veins.json
-4202d01fb82b465ddbe9e3a43cb85330
 /config/oreveins/granite_veins.json
 ba25aff413adbc393ee27d2346fca43e
 /config/oreveins/andesite_veins.json
@@ -2081,69 +1831,65 @@ ba25aff413adbc393ee27d2346fca43e
 /config/oreveins/ore_veins.json
 435445f96681015c96e108869bf091bf
 /config/soundfilters.cfg
-58de67efc767f4e527dc4058fda4429a
+aa870b3227607efe2e7c1638aa58c528
 /config/orelib.cfg
-70f8e6b6d17a73fe970a92f72cfbf21c
+1a445891cf7ae380e6e0ea2d7bbe9209
 /config/itemphysic-client.json
 ad3e6ee0a18b6dc7cf32c9051cf636f2
 /config/splash.properties
-f94acce4cc148ae44a6a034adf995992
-/config/brewcraft.cfg
-3b5f7102c9ddb8494b6cde8ab8a36fd3
+001f66cd96ffd01bcfd1674b532f9155
 /config/playerrevive.json
-b9cb50494db8de98a1b0ed1cafb841c3
-/config/bettercombatmod.cfg
-4e1a72eef6b8dd80a27faf21ed78a90b
+0c7f98e430a157efa54a33238607a6ff
 /config/Guide-API/Guide-API.cfg
-deb5dacdef086f9819b295e8f3ed3462
-/config/waitingtimestats.json
-efc1865cfadcf1aa7944ad125b3143f2
+0810a56b4b9cef1031b3d0868aca6983
 /config/bloodmoon.cfg
-eaf2615311987ae722d233fb19260f04
+64027df02200f9f0ef3d4ae912c6773a
 /config/unloader.cfg
 48379c3f03267b8d85b72da2e713e599
 /config/spiceoflife/example-food-group.json
 47d496679d6afdb269d677076b147e7f
 /config/chiselsandbits.cfg
-1af7f486d63f126419888781ee9f590c
-/config/alternatingflux.cfg
-2d920d148a4ed1d33de68ec00f869892
+bacfd9bfe50718bb8a56edf3b748f02d
+/config/classicbar.cfg
+f1b7ecf4785be898ed322bafb9d01228
+/config/engineerstools.cfg
+804c8a9464119b29b7a669156e33699d
 /config/jeresources/jeresources.cfg
 75d351a127caee4aa83e65add47dc817
 /config/immersiveintelligence.cfg
-27591f1695f1fbf1bad0eed5ead46dd4
+565b4475623ee413b6a6deb995f06cea
 /config/walljump.cfg
-3daa5cdea08a01f0110da304c5f86011
+be2ee7e9612685baee94a505e0f2cfc1
 /config/creativecore-client.json
 f929bf2f1db3b7e650dbd9e3e162c8dd
-/config/extendeddays.cfg
-7305cf82642abf07cb603a612834dedb
+/config/dgweapons_armors_v1.0.0.cfg
+436fdafa17cc7f587c7e054d097ea82d
 /config/divergentunderground.cfg
 5f321e278ce75148e8d82f1f9d883d43
+/config/performant.cfg
+18220c575e56323ac382c7bea421969b
 /config/PluginMetrics.conf
 681221983704fb0a23fc5b21751b1a71
 /config/skinsrestorer/config.yml
 d41d8cd98f00b204e9800998ecf8427e
-/config/foxguard.cfg
-892799761a71ed4b58368e7a21ff4586
-/config/sereneseasons/seasons.cfg
+/config/sereneseasons/nppBackup/seasons.cfg.2020-08-19_204745.bak
 785590b26dfe1217ce369c40a705009e
+/config/sereneseasons/seasons.cfg
+37e000b97039d4e78db6e0ef4f37cc42
 /config/sereneseasons/biome_info.json
 5014e427d8e7bc0443fb61704261c645
 /config/sereneseasons/cropfertility.cfg
-ae3ba55adda92596abee6664a2b64670
+ebcd35913d37ea54f395d256f874381a
 /config/betterfonts.cfg
 a2bffb9ddf8fcae325ba924a42964407
-/config/extraskills/skills.json
-0a34b142f873202b20961df4bad0c3b7
 /config/plethora.cfg
-fbf2b97f891a21981d4b1e496e453a90
-/config/dgweapons_v1.3.2.cfg
-6e2d91b961ed5381cad3a2b1ec030d3d
+3397bbaecec27f7eba8f2ff127890766
 /config/randompatches.cfg
-e53068fdbba4212da27ae25e3102b2fd
+1022073176f042f2db8385bf15bf3803
+/config/pdp.cfg
+516f3d4e362a7530f1c55397251f8a82
 /config/dropt.module.Dropt.cfg
-9eb5ab2c54110331791f62e8734df9af
+3a9a4b55b4eed74a42a16bf2484dee88
 /config/machinemuse/custominstallcosts.json
 5c34ce2945666b1aeb40106629e2518f
 /config/machinemuse/numina.cfg
@@ -2187,29 +1933,29 @@ ea82681d76d64181df644690e26aa376
 /config/machinemuse/missingConfigDoubles.txt
 6991bc2f851b17faffc75d1bf158a9c5
 /config/stg.cfg
-ba23834dc87b98faf4f55a926c4366c1
+b2ddc6d7b2259cd289885d8d3e3ddbb4
 /config/foamfix.cfg
-c734ddb626fbe6da604c556652831019
-/config/gliby_vc/ClientSettings.ini
-017fa6b9f36513d798c4f825ac0162b7
-/config/multipiston.cfg
-6d64c76fd64cf56a19dc81024fe2e73b
+f42cdcc6829a9fcb7a7ead6beb8f25fb
+/config/gliby_vc/ServerSettings.ini
+a2ccd57e0632741f1593b7d7ae9b679b
 /config/engineersdecor.cfg
-1a643ec07e12e71d498654860b9fe869
+081b85271543eb135cc24d849c792ce1
 /config/computercraft.cfg
-80fe23c09d23566c814e25ddbabe97e2
+8bc8f0c1c898ae7a4c9a3f4e019927f6
 /config/harvestcraft_fruittree.cfg
 b9e5ccc1c914ad3b52c6d2f81073465b
 /config/cyberware.cfg
-95180bbb2f6de35d24c0069eddbe11e6
+0f8b1e605b005b912f4c7f3f6989f6a4
 /config/bStats/temp.txt
-45e2cc77fade539d50d8c3207d1e3f02
+55b7afa49adf172695f4ac024dd30415
 /config/bStats/config.conf
 1bb2ea4fa21e63e72f117ffe39501471
 /config/dooglamooworlds/dooglamooworlds.cfg
-b92f73df8f54a7f2911024515862c597
+f8c86ab3289dacba0947491b1806c9e6
 /config/immersiveposts.cfg
-251bd176b2fea655cb1c1a2ef1b650b0
+edffd158b0972db2eeda74a661c8396d
+/config/dgweapons_general_v1.0.0.cfg
+2d1aaa3fa04fc70c876bbb7aee3e5406
 /config/ore_veins.json
 bab867586d4064e7006847b17abf892f
 /config/itemphysic.json
@@ -2218,6 +1964,8 @@ bab867586d4064e7006847b17abf892f
 764163bdf32178ae06af29d351de6e6d
 /config/CustomMainMenu/mainmenu.json
 15c549241b56df8c18d7d86aa17eaba6
+/config/dgweapons_weapons_v1.0.0.cfg
+fbce2bfb856658234c8aa6b62db572a6
 /servers.dat
 d22c652f9b602a4a619fc6db11d397d8
 /assets/objects/f7/f756c39f4ca9565c359a66d33b5a4f9d886e5479

@@ -9,5 +9,10 @@
   "disableBleedingMessage": false,
   "disableGiveUp": false,
   "disableDisconnect": true,
-  "allowCommandsWhileBleeding": false
+  "allowCommandsWhileBleeding": false,
+  "bypassDamageSources": [
+    "gorgon",
+    "death.attack.sgcraft:transient",
+    "death.attack.sgcraft:iris"
+  ]
 }

@@ -1,2 +1,2 @@
-com.sk89q.craftbook.sponge.util.Metrics
+me.rojo8399.placeholderapi.impl.Metrics
 Note: This class only exists for internal purpose. You can ignore it :)

@@ -1,0 +1,164 @@
+  // BREW CRAFT
+  
+  {
+    "item": {
+      "name": "brewcraft:rennalgolditem",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 1.0,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "brewcraft:uglyavocadoginitem",
+      "metadata": 0
+    },
+    "thirst": 16,
+    "hydration": 1.0,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "brewcraft:totalvodkaitem",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 1.0,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "brewcraft:tiagapinotnoiritem",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 1.0,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "brewcraft:swampmerlotitem",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 1.0,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "brewcraft:spicedrumitem",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 1.0,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "brewcraft:savannazinfandelitem",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 1.0,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "brewcraft:riverchardonnayitem",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 1.0,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "brewcraft:sakeitem",
+      "metadata": 0
+    },
+    "thirst": 12,
+    "hydration": 1.0,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "brewcraft:beachrumitem",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 1.0,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "brewcraft:pmaxrieslingitem",
+      "metadata": 0
+    },
+    "thirst": 16,
+    "hydration": 1.0,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "brewcraft:pinkmoscatoitem",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 1.0,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "brewcraft:honeymeaditem",
+      "metadata": 0
+    },
+    "thirst": 14,
+    "hydration": 1.0,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "brewcraft:hardlemonadeitem",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 1.0,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "brewcraft:hardapplecideritem",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 1.0,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "brewcraft:handmadevodkaitem",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 1.0,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "brewcraft:coconutrumitem",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 1.0,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "brewcraft:cherryvodkaitem",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 1.0,
+    "poisonChance": 0.0
+  }
