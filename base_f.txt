@@ -62,8 +62,6 @@ d6521fca9d96bbeb73db65f441265e96
 d726a758db4e1d96cda90248f8410692
 /mods/1.12.2/craftingstation-0.1.7c.jar
 a5b9811fc05890674e04a10e9bd0978a
-/mods/1.12.2/Reskillable-1.12.2-1.13.0.jar
-38e66a09a8f5c90278af66fda95d2764
 /mods/1.12.2/rsgauges-1.12.2-1.2.4.jar
 87d2763139d604a7728f01b50553321c
 /mods/1.12.2/unloader-1.2.0.jar
