@@ -31,7 +31,6 @@
 /config/adpother/Emitters
 /config/ReWIRED
 /config/toughasnails
-/config/dsurround
 /config/oreveins
 /config/justenoughdimensions
 /config/Guide-API

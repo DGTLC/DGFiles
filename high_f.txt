@@ -22,6 +22,8 @@ afbdb448f432b5f7fff4967a1163d858
 87a4666549a60d8fb423883dd4ee6232
 /mods/DiscordSuite-2.2.4.jar
 e72b9dc2e36150e4ada0e7dd90a631a7
+/config/dsurround/dsurround.cfg
+8eb18be759ec1fce6d9966a1342db3a3
 /optionsof.txt
 7276526ed9ac6763d7c25e4c5fda0d0c
 /options.txt

@@ -1812,8 +1812,6 @@ aa0ad68ffa2e9c0b358c0d05e4d30466
 2402d46df98ef258df55f351ea5d6aa8
 /config/harvestcraft.cfg
 78c5038a6589ae20273e2fe1dcfc0843
-/config/dsurround/dsurround.cfg
-8eb18be759ec1fce6d9966a1342db3a3
 /config/corpse.cfg
 523e3f17a59c16b16bc3f0fe86588ac4
 /config/forgeChunkLoading.cfg
