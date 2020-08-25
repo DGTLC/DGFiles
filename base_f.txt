@@ -1,21 +1,47 @@
+/mods/jeiintegration_1.12.2-1.5.1.36.jar
+de73cdc5de95a2685e50d90f01c03a50
+/mods/TTFR-1.12.1-1.9.1.jar
+ed1f60c928b5561a8d6f0c3098738833
+/mods/RealFirstPerson2-1.12.2-1.3.2.jar
+ca24362c3c696c837a2612aefce21770
+/mods/1.12.2/engineersdecor-1.12.2-1.1.1-b1 {IE} [Dekoracje].jar
+d6521fca9d96bbeb73db65f441265e96
+/mods/1.12.2/ToughAsNails-1.12.2-3.1.0.141-universal [Pasek ciepła postaci].jar
+39634afb9279ab287b9d6772ee863d7c
+/mods/1.12.2/MineTweakerRecipeMaker-1.12.2-1.2.2.30 [Gui do receptir robienia].jar
+ae0a7fa4d861f50140495de94aaf98f6
+/mods/1.12.2/modtweaker-4.0.18 [Wspomagacz od CT].jar
+d117e26e6b578b18d25848f578e86c3b
+/mods/1.12.2/engineerstools-1.12.2-1.0.5 {IE} [Narzędzia].jar
+2ac12f3770d283cc4098afe76cd1dfb6
 /mods/1.12.2/CTM-MC1.12.2-1.0.2.31.jar
 77a8bb5486c97e3eaa6f45e5bd768864
 /mods/1.12.2/ItemPhysic_Full_1.4.34_mc1.12.2.jar
 050d10173974bee32e543e1b4e47aa82
+/mods/1.12.2/SereneSeasons-1.12.2-1.2.18-universal [Pory roku].jar
+ef89fab62d1914ea0e25d2c31b453695
 /mods/1.12.2/cc-tweaked-1.12.2-1.89.2.jar
 cf075ec4f281ed5c510a96a91299927b
 /mods/1.12.2/SpiceOfLife-mc1.12-1.3.12.jar
 5a4c30010b31c5af956f2d597fa5a29f
+/mods/1.12.2/dooglamooworlds-1.12.2-1.1.7 [Nasz Generator świata].jar
+46435ab086d2b849bc2299c6748b0c52
 /mods/1.12.2/DynamicSwordSkills-1.12.2-6.2.1.jar
 91a27ec699afea6b21ab561529dd9866
 /mods/1.12.2/SereneSeasons-1.12.2-1.2.18-universal.jar
 ef89fab62d1914ea0e25d2c31b453695
 /mods/1.12.2/Chisel-MC1.12.2-1.0.2.45.jar
 54afc298f94e708f0e1cdf399200b2cb
+/mods/1.12.2/corpse-1.12.2-1.0.6 [Ciała po śmierci].jar
+9a34a9767be3e9f50c7c1a48c864e26d
+/mods/1.12.2/CustomNPCs_1.12.2-(01Oct19) [Sama nazwa mówi].jar
+e8f289624d99a67ee3b78c6524b96b45
 /mods/1.12.2/HardcoreDarkness-MC1.12.2-2.0.jar
 f4bdcba26a2f6d3dff66856e47ebbecc
 /mods/1.12.2/AttributeFix-1.12.2-1.0.4.jar
 d1d921d9bb092ee3b5fd193abe95db32
+/mods/1.12.2/PamsPortalPoof1.12.Xa [Portale do piekła off].jar
+e690d5759ce895c0cf594c0228165b15
 /mods/1.12.2/RealisticTorches-1.12.2-2.1.1.jar
 402db0ac1fabb10a977d918dd41067fb
 /mods/1.12.2/CustomNPCs_1.12.2-(01Oct19).jar
@@ -26,10 +52,22 @@ e8f289624d99a67ee3b78c6524b96b45
 7940d5440bfc56b55813c791d2e31a7a
 /mods/1.12.2/performant-1.12.2-1.10.jar
 78108b13c8d55046f876c6874b0fcf1a
+/mods/1.12.2/oreveins-2.0.13 [Złoza ród].jar
+a6a9ca252aad90c95d58e97ac0eb5f80
+/mods/1.12.2/ItemPhysic_Full_1.4.34_mc1.12.2 [Fizyka itemów].jar
+050d10173974bee32e543e1b4e47aa82
+/mods/1.12.2/unloader-1.2.0 [Rozładowywanie chunków].jar
+c13b3a2c4ed9537e4f64f7c9bbde64f3
 /mods/1.12.2/AutoRegLib-1.3-32.jar
 4e5a4b881c27b1e4502a9a16c00882ad
+/mods/1.12.2/NotEnoughIDs-1.5.4.4 [Większa ilość ID].jar
+759494e409ce5d2ac277fc350e89500a
 /mods/1.12.2/oreveins-2.0.13.jar
 a6a9ca252aad90c95d58e97ac0eb5f80
+/mods/1.12.2/ReWIRED-1.0.9b [CyberWare Addon].jar
+aafea85e6d8619a6d30b9477f293112e
+/mods/1.12.2/chopdownupdated-1.12.2-1.2.4 [Ścinanie drzew].jar
+3e242bef23544ee58048b21da4054f04
 /mods/1.12.2/walljump-1.12.2-1.3.2.jar
 845bdff742f44f42021458ea2897291e
 /mods/1.12.2/corpse-1.12.2-1.0.6.jar
@@ -40,6 +78,8 @@ a6a9ca252aad90c95d58e97ac0eb5f80
 8d69c5722fa6498813da16b4d940246d
 /mods/1.12.2/DGWeapons-2.0.0-AU.jar
 4fd2635c995a54c8f97d52547067051a
+/mods/1.12.2/BiomeTweaker-1.12.2-3.2.354 [Poprawa ułożenia biomów].jar
+eb9a862d4317330199e06d02b872d8a1
 /mods/1.12.2/OfflineSkins-1.12.2-v6.jar
 0f6a73ce19399a58687639e282ea057a
 /mods/1.12.2/ImmersiveEngineering-0.12-98.jar
@@ -52,56 +92,134 @@ affce9a7f7cb9ab257135da89314e07e
 753789114e628486d6c872831de244e8
 /mods/1.12.2/ForgeEndertech-1.12.2-4.5.2.0-build.0459.jar
 8ceecd32ea33ef6bf370057c123e797e
+/mods/1.12.2/rsgauges-1.12.2-1.2.4 [Dzwignie i inne].jar
+87d2763139d604a7728f01b50553321c
+/mods/1.12.2/ImmersiveEngineering-0.12-98 [Maszyneria].jar
+affce9a7f7cb9ab257135da89314e07e
+/mods/1.12.2/randompatches-1.12.2-1.22.0.0 [Optymalizator].jar
+2369845de7f026312c805ad21c97ad25
+/mods/1.12.2/cyberware-1.12.2-0.2.11.24 [Mechaniczne częsci ciała].jar
+30915991eabead92bcf0871a4f9166d8
+/mods/1.12.2/locks-1.12.2-2.5.1 [Zamki i inne włamania xD].jar
+4edd554369a6c9e7fa50245acec7f65d
 /mods/1.12.2/ImmersivePosts-0.2.1.jar
 d2df966203a439ee154642f01f09955e
+/mods/1.12.2/AppleCore-mc1.12.2-3.4.0 [SpiceOfLife lib].jar
+a8dd635a81fed59be0d18206fd383f6e
 /mods/1.12.2/engineersdecor-1.12.2-1.1.1-b1.jar
 d6521fca9d96bbeb73db65f441265e96
+/mods/1.12.2/athenaeum-1.12.2-1.19.0 [Dropt Lib].jar
+98e6508679456c03032ac43db4d96c95
+/mods/1.12.2/1.12.2-SwordSkillsApi-1.1.0  [API mele skills].jar
+26ff02259358a62b995974eedc41d77e
 /mods/1.12.2/cyberware-1.12.2-0.2.11.24.jar
 30915991eabead92bcf0871a4f9166d8
+/mods/1.12.2/#BetterFps-1.4.8 [Optymalizator].jar
+d36f4d3c0f96e99a9a1ad2e8eeda1fc4
 /mods/1.12.2/immersiveintelligence-1.12.2-0.1.1.jar
 d726a758db4e1d96cda90248f8410692
 /mods/1.12.2/craftingstation-0.1.7c.jar
 a5b9811fc05890674e04a10e9bd0978a
+/mods/1.12.2/ChunkAnimator-MC1.12-1.2 [Animacje ładowania chunków].jar
+47667bc52f07c777263ac5345c6a42ec
 /mods/1.12.2/rsgauges-1.12.2-1.2.4.jar
 87d2763139d604a7728f01b50553321c
+/mods/1.12.2/craftingstation-0.1.7c [CraftingTable z Tinkersa].jar
+a5b9811fc05890674e04a10e9bd0978a
 /mods/1.12.2/unloader-1.2.0.jar
 c13b3a2c4ed9537e4f64f7c9bbde64f3
+/mods/1.12.2/CTM-MC1.12.2-1.0.2.31 [Chisel addon].jar
+77a8bb5486c97e3eaa6f45e5bd768864
+/mods/1.12.2/ImmersivePosts-0.2.1 {IE} [Słupy customowe].jar
+d2df966203a439ee154642f01f09955e
 /mods/1.12.2/chiselsandbits-14.33.jar
 e056e23559965f2ebabf47aad0fe51a3
+/mods/1.12.2/dropt-1.12.2-1.18.0 [Zmiana dropu].jar
+a8c9290de5639ef38ccd06e5b68fd97b
 /mods/1.12.2/ToughAsNails-1.12.2-3.1.0.141-universal.jar
 39634afb9279ab287b9d6772ee863d7c
+/mods/1.12.2/AdPother-1.12.2-1.2.6.1-build.0521 [Zanieczyszczenia i dymki].jar
+753789114e628486d6c872831de244e8
 /mods/1.12.2/Voice+Chat+Reloaded-1.2.2.jar
 bb4dd904be03f399aeadae4db8536dcd
+/mods/1.12.2/MTLib-3.0.6 [ModTweaker Lib].jar
+b46748362c046d70b821121331246aa5
 /mods/1.12.2/Pam's+HarvestCraft+1.12.2zg.jar
 e8e1ac67accdeea50116e1e92e592397
+/mods/1.12.2/CraftTweaker2-1.12-4.1.20.578 [Wiadomo].jar
+a8f991e7a32e928e35228dff9685ef36
+/mods/1.12.2/betteranimalsplus-1.12.2-9.0.1 [Zwierzęta].jar
+154144d50500329125deac9304c4c23f
+/mods/1.12.2/Chisel-MC1.12.2-1.0.2.45 [To wiadomka].jar
+54afc298f94e708f0e1cdf399200b2cb
 /mods/1.12.2/energyconverters_1.12.2-1.3.7.30.jar
 54077d32d7075a2c6c8e1991e766102a
+/mods/1.12.2/plethora-1.12.2-1.2.3 [Dodatek do CC, sterowanie mobami].jar
+78a16072602c903a32ca289678fa5409
 /mods/1.12.2/ReWIRED-1.0.9b.jar
 aafea85e6d8619a6d30b9477f293112e
 /mods/1.12.2/plethora-1.12.2-1.2.3.jar
 78a16072602c903a32ca289678fa5409
+/mods/1.12.2/Divergent-Underground-1.12-0.64.0 [Fragmenty rud, głębiej trudniej sie kopie].jar
+be03f97645acef09d11a20406c0781fc
+/mods/1.12.2/BadMobs-1.12.2-1.1.28 [Kontrola nad mobami].jar
+eff6ef5d8c18fa72cf05c6c06c760a35
+/mods/1.12.2/SpiceOfLife-mc1.12-1.3.12 [Nie zjesz ciągle tego samego].jar
+5a4c30010b31c5af956f2d597fa5a29f
+/mods/1.12.2/DGWeapons-2.0.0-AU [Wiadomka].jar
+4fd2635c995a54c8f97d52547067051a
+/mods/1.12.2/RealisticTorches-1.12.2-2.1.1 [Realne pochodnie].jar
+402db0ac1fabb10a977d918dd41067fb
+/mods/1.12.2/AutoRegLib-1.3-32 [Quark Lib].jar
+4e5a4b881c27b1e4502a9a16c00882ad
+/mods/1.12.2/immersivepetroleum-1.12.2-1.1.9 {IE} [Paliwko].jar
+57ba127778e579d10d705f9f8359d2e0
 /mods/1.12.2/AppleCore-mc1.12.2-3.4.0.jar
 a8dd635a81fed59be0d18206fd383f6e
+/mods/1.12.2/Quark-r1.6-178 [Ulepszenie i rozwinięcie podstawy mc].jar
+8d69c5722fa6498813da16b4d940246d
 /mods/1.12.2/locks-1.12.2-2.5.1.jar
 4edd554369a6c9e7fa50245acec7f65d
+/mods/1.12.2/energyconverters_1.12.2-1.3.7.30 [Konwercja energii].jar
+54077d32d7075a2c6c8e1991e766102a
 /mods/1.12.2/immersivepetroleum-1.12.2-1.1.9.jar
 57ba127778e579d10d705f9f8359d2e0
 /mods/1.12.2/alternatingflux-0.12.2-2.jar
 a3221919c55f5cae56f1fb902cd159b2
 /mods/1.12.2/AdChimneys-1.12.2-3.5.14.0-build.0505.jar
 3c5abacc846e1167e4b1a1d2d4f10b3c
+/mods/1.12.2/Pam's+HarvestCraft+1.12.2zg [Jadło].jar
+e8e1ac67accdeea50116e1e92e592397
 /mods/1.12.2/reflectasm-1.11.3.jar
 78e3bd8398fde0fd7531ba706c88b84d
 /mods/1.12.2/athenaeum-1.12.2-1.19.0.jar
 98e6508679456c03032ac43db4d96c95
+/mods/1.12.2/Clumps-3.1.2 [Tylko 1 orb expa].jar
+e0c4c4f04aeb0e0a48fc7534f9e7d6be
 /mods/1.12.2/Bloodmoon-MC1.12.2-1.5.3.jar
 6abdadb259cac735ff85fce91888b9ac
+/mods/1.12.2/#foamfix-0.10.10-1.12.2 [Opymalizaotr].jar
+bba94f1ee252fcfbd2d52779f5c2f2b1
 /mods/1.12.2/BiomeTweaker-1.12.2-3.2.354.jar
 eb9a862d4317330199e06d02b872d8a1
+/mods/1.12.2/CreativeCore_v1.10.16_mc1.12.2 [Core do ItemPhisic].jar
+ce9692bdbf5a16c1d48354b67fb8022e
+/mods/1.12.2/#performant-1.12.2-1.10 [Optymalka].jar
+62a7c679562f726af9e93995ec244ad7
+/mods/1.12.2/chiselsandbits-14.33 [To wiadomo].jar
+e056e23559965f2ebabf47aad0fe51a3
+/mods/1.12.2/Voice+Chat+Reloaded-1.2.2 [Sama nazwa mówi].jar
+bb4dd904be03f399aeadae4db8536dcd
+/mods/1.12.2/stg-1.12.2-1.2.3 [Atakowanie przez trawe].jar
+b836648006f1451c65d33f7132eec770
+/mods/1.12.2/immersivetech-1.12-1.3.10 {IE} [Genetatory].jar
+3be088e1e5b1bea50f04cdfb4082a528
 /mods/1.12.2/engineerstools-1.12.2-1.0.5.jar
 2ac12f3770d283cc4098afe76cd1dfb6
 /mods/1.12.2/MTLib-3.0.6.jar
 b46748362c046d70b821121331246aa5
+/mods/1.12.2/engineers_doors-1.12.2-0.8.0 {IE} [Drzwi].jar
+631f58b289270004917bfcb8b1f2bedf
 /mods/1.12.2/MineTweakerRecipeMaker-1.12.2-1.2.2.30.jar
 ae0a7fa4d861f50140495de94aaf98f6
 /mods/1.12.2/BetterFps-1.4.8.jar
@@ -110,22 +228,44 @@ d36f4d3c0f96e99a9a1ad2e8eeda1fc4
 a8f991e7a32e928e35228dff9685ef36
 /mods/1.12.2/1.12.2-SwordSkillsApi-1.1.0.jar
 26ff02259358a62b995974eedc41d77e
+/mods/1.12.2/walljump-1.12.2-1.3.2 [Parkour].jar
+845bdff742f44f42021458ea2897291e
+/mods/1.12.2/OfflineSkins-1.12.2-v6-core [Core do skinó premek].jar
+afba51cd356ea67cfc2c16f62be7d032
 /mods/1.12.2/NotEnoughIDs-1.5.4.4.jar
 759494e409ce5d2ac277fc350e89500a
+/mods/1.12.2/HardcoreDarkness-MC1.12.2-2.0 [Mrok].jar
+f4bdcba26a2f6d3dff66856e47ebbecc
+/mods/1.12.2/DynamicSwordSkills-1.12.2-6.2.1 [Skille meele].jar
+91a27ec699afea6b21ab561529dd9866
+/mods/1.12.2/Immersive+HempCraft-1.12-0.0.7.1 {IE} [Wspomagacze].jar
+7940d5440bfc56b55813c791d2e31a7a
 /mods/1.12.2/CreativeCore_v1.10.16_mc1.12.2.jar
 ce9692bdbf5a16c1d48354b67fb8022e
 /mods/1.12.2/PamsPortalPoof1.12.Xa.jar
 e690d5759ce895c0cf594c0228165b15
 /mods/1.12.2/randompatches-1.12.2-1.22.0.0.jar
 2369845de7f026312c805ad21c97ad25
+/mods/1.12.2/AdChimneys-1.12.2-3.5.14.0-build.0505 [Dodatek do zanieczyszczeń].jar
+3c5abacc846e1167e4b1a1d2d4f10b3c
+/mods/1.12.2/Bloodmoon-MC1.12.2-1.5.3 [Sama nazwa mówi].jar
+6abdadb259cac735ff85fce91888b9ac
+/mods/1.12.2/PlayerRevive_v1.2.35_mc1.12.2 [Ratowanie poległych].jar
+f7ae98bdc5f46acb3eed5bae8d3c952b
 /mods/1.12.2/modtweaker-4.0.18.jar
 d117e26e6b578b18d25848f578e86c3b
+/mods/1.12.2/SRParasites-1.12.2v1.8.1 [Interesujące moby mutanty hehe].jar
+f9d763cdb046037dd4c47b94f1223fe6
 /mods/1.12.2/betteranimalsplus-1.12.2-9.0.1.jar
 154144d50500329125deac9304c4c23f
 /mods/1.12.2/immersivetech-1.12-1.3.10.jar
 3be088e1e5b1bea50f04cdfb4082a528
+/mods/1.12.2/AttributeFix-1.12.2-1.0.4 [Brak limitów atrybutów (hp armor itp)].jar
+d1d921d9bb092ee3b5fd193abe95db32
 /mods/1.12.2/Clumps-3.1.2.jar
 e0c4c4f04aeb0e0a48fc7534f9e7d6be
+/mods/1.12.2/OfflineSkins-1.12.2-v6 [Skiny premek].jar
+0f6a73ce19399a58687639e282ea057a
 /mods/1.12.2/Divergent-Underground-1.12-0.64.0.jar
 be03f97645acef09d11a20406c0781fc
 /mods/1.12.2/aopalliance-1.0.jar
@@ -138,18 +278,46 @@ b836648006f1451c65d33f7132eec770
 46435ab086d2b849bc2299c6748b0c52
 /mods/1.12.2/BadMobs-1.12.2-1.1.28.jar
 eff6ef5d8c18fa72cf05c6c06c760a35
+/mods/1.12.2/backpack-3.0.2-1.12.2 [Plecaki].jar
+575669bf0854451ca8e0d2a80869b0c9
 /mods/1.12.2/foamfix-0.10.10-1.12.2.jar
 bba94f1ee252fcfbd2d52779f5c2f2b1
+/mods/1.12.2/cc-tweaked-1.12.2-1.89.2 [Kompy].jar
+cf075ec4f281ed5c510a96a91299927b
+/mods/1.12.2/ForgeEndertech-1.12.2-4.5.2.0-build.0459 [Libek do zanieczyszczeń].jar
+8ceecd32ea33ef6bf370057c123e797e
 /mods/1.12.2/OfflineSkins-1.12.2-v6-core.jar
 afba51cd356ea67cfc2c16f62be7d032
+/mods/1.12.2/immersiveintelligence-1.12.2-0.1.1 {IE} [Maszyny wojny].jar
+d726a758db4e1d96cda90248f8410692
 /mods/1.12.2/PlayerRevive_v1.2.35_mc1.12.2.jar
 f7ae98bdc5f46acb3eed5bae8d3c952b
+/mods/1.12.2/alternatingflux-0.12.2-2 {IE} [Transport energii na większe dystansy].jar
+a3221919c55f5cae56f1fb902cd159b2
 /mods/1.12.2/dropt-1.12.2-1.18.0.jar
 a8c9290de5639ef38ccd06e5b68fd97b
+/mods/memory_repo/blusunrize/ImmersiveEngineering-core/0.12-98/ImmersiveEngineering-core-0.12-98.jar.meta
+e62798c555f5520c31a7efb68c0ba170
+/mods/memory_repo/blusunrize/ImmersiveEngineering-core/0.12-98/ImmersiveEngineering-core-0.12-98.jar
+1a54e0e65323328f814c139860e34475
+/mods/OreLib-1.12.2-3.6.0.1.jar
+00cce3b240365458adcad3e77782358a
+/mods/CustomMainMenu-MC1.12.2-2.0.9.1.jar
+3ce85b56e0ca9d0461dfe3faebe70a98
 /mods/classicbar-0.5.4.jar
 f06710fe5a77993720202101f3319764
 /mods/ProportionalDestructionParticles-1.12.2-1.2.4.jar
 2028340a0cd751ab76995d349a84508e
+/mods/OptiFine_1.12.2_HD_U_E3.jar
+7ec95c57ac1a224d6eb93bd370e4ac37
+/mods/betteranimals-1.12.2-5.3.0.jar
+fb2a8a8c11eb4c674cb52833ea8a8bfa
+/mods/jei_1.12.2-4.15.0.293.jar
+32541b3176b0d4b24af71836a52bc070
+/mods/JustEnoughResources-1.12.2-0.9.2.60.jar
+87a4666549a60d8fb423883dd4ee6232
+/mods/DiscordSuite-2.2.4.jar
+e72b9dc2e36150e4ada0e7dd90a631a7
 /scripts/04_pams_hc_ie_fermenter.zs
 a354da131ad5b1f7df2d346ec5ab0dfb
 /scripts/MineTweakerRecipeMaker.zs

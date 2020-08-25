@@ -1,0 +1,217 @@
+{
+  "general": {
+    "opSignEditingOnly": {
+      "value": false,
+      "comment": "If true, only OPs will be able to edit signs on servers.  Does not affect client worlds."
+    },
+    "opPickupVehiclesOnly": {
+      "value": false,
+      "comment": "If true, only OPs will be able to pick up vehicles with wrenches.  Does not affect client worlds."
+    },
+    "speedFactor": {
+      "value": 0.35,
+      "comment": "Factor to apply to vehicle movement.  1 is the realistic value, but this makes vehicles move too fast for Minecraft. Adjust with caution."
+    },
+    "fuelUsageFactor": {
+      "value": 1.0,
+      "comment": "Factor times which engines use fuel.  Change this if you think engines use fuel too fast or slow."
+    },
+    "engineHoursFactor": {
+      "value": 1.0,
+      "comment": "Factor times which engines hours accumulate.  Change this if you want to adjust how fast engines wear out."
+    },
+    "clingSpeed": {
+      "value": 0.25,
+      "comment": "Speed (in BLK/S) at which players start to slide off vehicles due to wind.  Does not affect collision boxes set as interior in the vehicle JSON."
+    },
+    "itemWeights": {
+      "comment1": "The following section is used for calculating item weights.  Any item that contains the text bits will have its weight multiplied by the following factor.",
+      "comment2": "This mass factors into vehicle performance, with particular emphasis on vehicle payloads.  Some defaults are presented here, but you can add/remove to your liking.",
+      "comment3": "Note that the part of the name searched is the item\u0027s registry name, NOT the in-game display name.  This is similar to what is in the /give command.",
+      "weights": {
+        "gold": 4.0,
+        "diamond": 4.0,
+        "ore": 2.5,
+        "iron": 4.0,
+        "coal": 2.0,
+        "stone": 1.5
+      }
+    }
+  },
+  "damage": {
+    "explosions": {
+      "value": true,
+      "comment": "Whether or not vehicles explode when crashed or shot down."
+    },
+    "blockBreakage": {
+      "value": true,
+      "comment": "Whether or not vehicles can break blocks when they hit them.  If false, vehicles will simply stop when they hit blocks."
+    },
+    "wheelBreakage": {
+      "value": true,
+      "comment": "Whether or not wheels can be broken (go flat)."
+    },
+    "wheelDamageIgnoreVelocity": {
+      "value": false,
+      "comment": "Whether or not velocity is ignored when calculating wheel damage."
+    },
+    "propellerDamageFactor": {
+      "value": 1.0,
+      "comment": "Factor for damage caused by a propeller."
+    },
+    "jetDamageFactor": {
+      "value": 1.0,
+      "comment": "Factor for damage caused by a jet engine."
+    },
+    "wheelDamageFactor": {
+      "value": 1.0,
+      "comment": "Factor for damage caused by wheels on vehicles."
+    },
+    "crashDamageFactor": {
+      "value": 1.0,
+      "comment": "Factor for damage caused by crashes."
+    },
+    "bulletDamageFactor": {
+      "value": 1.0,
+      "comment": "Factor for damage caused by bullets on vehicles."
+    },
+    "engineLeakProbability": {
+      "value": 0.01,
+      "comment": "Chance an engine will spring a leak if hit.  Explosions cause 10x this chance."
+    },
+    "crashItemDropPercentage": {
+      "value": 0.75,
+      "comment": "Percent that a crafting ingredient will be dropped when a vehicle is crashed.  Note that fire/explosions may destroy these items if enabled, so just because they drop does not mean you will get all of them."
+    }
+  },
+  "fuel": {
+    "comment1": "The following section is used for fuel configs for engines.  Each entry here is a single fuel type for engines.",
+    "comment2": "Inside each entry exist values for the potency of the fluids that can be considered to be that fuel type.",
+    "comment3": "You can make engines take different types of fluids for their fuels by editing these values.  See the in-game handbook for more information.",
+    "fuels": {
+      "diesel": {
+        "diesel": 1.0,
+        "lava": 1.0,
+        "oil": 0.5,
+        "biodiesel": 0.8
+      },
+      "avgas": {
+        "lava": 1.0,
+        "gasoline": 1.0
+      },
+      "gasoline": {
+        "lava": 1.0,
+        "gasoline": 1.0,
+        "ethanol": 0.85
+      }
+    }
+  },
+  "crafting": {
+    "comment1": "The following section is used for overriding crafting recipes from packs for use in modpacks and servers.",
+    "comment2": "Everything that is crafted on one of the benches can be modified here to include any item, including modded ones.",
+    "comment3": "The format is one of [modID]:[ItemName]:[Metadata]:[Qty], with the name being the same as the in-game /give command.",
+    "comment4": "A sample override config is given here for reference.  Modify as you see fit.",
+    "overrides": {
+      "mtsofficialpack": {
+        "wheellarge": [
+          "minecraft:dye:0:3",
+          "minecraft:iron_ingot:0:3",
+          "minecraft:wool:15:3"
+        ],
+        "engineamci4": [
+          "minecraft:piston:0:4",
+          "minecraft:obsidian:0:3",
+          "minecraft:iron_ingot:0:1"
+        ]
+      },
+      "unuparts": {
+        "unuparts_decor_unu_cutout_derrick": [
+          "minecraft:heavy_weighted_pressure_plate:0:1",
+          "minecraft:dye:6:2"
+        ]
+      }
+    }
+  },
+  "client": {
+    "devMode": {
+      "value": false,
+      "comment": "If enabled, MTS will re-load all resources every time the config key (P) is pressed.  This includes textures for vehicles and parts, JSON files, and OBJ models.  This is intended for use in pack creation with pack components being placed in an un-zipped resource pack.  Note that every re-load will also re-load EVERY resource, not just MTS resources.  Make sure not to have lots of mods installed when you are doing this!"
+    },
+    "innerWindows": {
+      "value": false,
+      "comment": "Should the glass on windows be rendered on the inside of the vehicle?"
+    },
+    "mouseYoke": {
+      "value": false,
+      "comment": "Enable mouse yoke for vehicles? Prevents looking around unless unlocked.  Think MCHeli controls."
+    },
+    "kbOverride": {
+      "value": true,
+      "comment": "Should keyboard controls be ignored when a joystick control is mapped?  Leave true to free up the keyboard while using a joysick."
+    },
+    "flareBlending": {
+      "value": false,
+      "comment": "If true, light flares from vehicles and lamps will not do brightness blending.  Normally false, but can be set to true if it makes shaders better."
+    },
+    "beamBlending": {
+      "value": true,
+      "comment": "If false, beam-based lights from vehicles and lamps will not do brightness blending.  Useful if you have shaders and this is causing troubles."
+    },
+    "lightsPass0": {
+      "value": false,
+      "comment": "If true, light rendering (and possibly blending) will happen on the first (solid) render pass.  For performance and compatibility, this should normally be false, but may be set to true to get proper light blending with shaders."
+    },
+    "vehicleBlklt": {
+      "value": false,
+      "comment": "If true, vehicles will spawn invisible light blocks to force shaders to render them brighter.  Use this only if the other light options fail to work."
+    },
+    "renderHUD_1P": {
+      "value": true,
+      "comment": "If false, the HUD in vehicles will not render in 1st-person mode."
+    },
+    "renderHUD_3P": {
+      "value": true,
+      "comment": "If false, the HUD in vehicles will not render in 3rd-person mode."
+    },
+    "fullHUD_1P": {
+      "value": false,
+      "comment": "If true, the full-size HUD will render in 1st-person rather than the half-size HUD."
+    },
+    "fullHUD_3P": {
+      "value": false,
+      "comment": "If true, the full-size HUD will render in 3rd-person rather than the half-size HUD."
+    },
+    "transpHUD_1P": {
+      "value": false,
+      "comment": "If true, the background textures for the HUD will not be rendered in 1st-person."
+    },
+    "transpHUD_3P": {
+      "value": false,
+      "comment": "If true, the background textures for the HUD will not be rendered in 1st-person."
+    },
+    "renderReductionHeight": {
+      "value": 250,
+      "comment": "When riding in a vehicle above this height MTS will reduce the render distance to 1.  This provides a significant speedup for worldgen and render lag.  Note that this is only active on Singleplayer."
+    },
+    "controlSurfaceCooldown": {
+      "value": 4,
+      "comment": "How long (in ticks) it takes before control surfaces try to return to their natural angle.  This is not used when using a joystick."
+    },
+    "steeringIncrement": {
+      "value": 20,
+      "comment": "How many units (1/10 of a degree) to turn the wheels on vehicles for every tick the button is held down.  This is not used when using a joystick."
+    },
+    "flightIncrement": {
+      "value": 6,
+      "comment": "How many units (1/10 of a degree) to move the elevators and ailerons on aircraft for every tick the button is held down.  This is not used when using a joystick."
+    },
+    "joystickDeadZone": {
+      "value": 0.03,
+      "comment": "Dead zone for joystick axis.  This is NOT joystick specific."
+    }
+  },
+  "controls": {
+    "keyboard": {},
+    "joystick": {}
+  }
+}

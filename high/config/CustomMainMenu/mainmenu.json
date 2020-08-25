@@ -1,0 +1,203 @@
+{
+    "images":
+    {
+	
+		"black":
+        {
+            "image" : "custommainmenu:textures/bg_menu.png",
+            "posX" : 99,
+            "posY" : 0,
+            "width" : 155,
+            "height" : 800,
+            "alignment" : "top_left"
+        },
+		
+		"logo":
+        {
+            "image" : "custommainmenu:textures/logodg3.png",
+            "posX" : 44,
+            "posY" : 0,
+            "width" : 297.5,
+            "height" : 140,
+            "alignment" : "top_left"
+        },
+		
+		"logo2":
+        {
+            "image" : "custommainmenu:textures/apoc.png",
+            "posX" : -10,
+            "posY" : 223,
+            "width" : 73,
+            "height" : 24.5,
+            "alignment" : "top_left"
+        }
+	
+	},
+    
+    "buttons":
+    {     		
+
+		"multiplayer":
+        {
+            "text" : "Rozpocznij gre",			
+			"normalTextColor" : 12303291,
+			"hoverTextColor" : 3125670,
+			"texture" : "custommainmenu:textures/btn.png",
+            "posX" : 100,
+            "posY" : -10,
+            "width" : 153,
+            "height" : 20,
+			imageWidth : 100,
+			imageHeight : 50,
+			"alignment" : "left_center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+
+		"singleplayer":
+        {
+            "text" : "Gra jednoosobowa",			
+			"normalTextColor" : 12303291,
+			"hoverTextColor" : 3125670,
+			"texture" : "custommainmenu:textures/btn.png",
+            "posX" : 100,
+            "posY" : 10,
+            "width" : 153,
+            "height" : 20,
+			imageWidth : 100,
+			imageHeight : 50,
+			"alignment" : "left_center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+               
+		"options":
+        {
+            "text" : "Opcje",
+			"normalTextColor" : 12303291,
+			"hoverTextColor" : 3125670,
+			"texture" : "custommainmenu:textures/btn.png",
+            "posX" : 100,
+            "posY" : 30,
+            "width" : 153,
+            "height" : 20,
+			imageWidth : 100,
+			imageHeight : 50,
+			"alignment" : "left_center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+                    
+        "quit":
+        {
+            "text" : "Wyjdz",
+			"normalTextColor" : 16729156,
+			"hoverTextColor" : 14483456,
+			"texture" : "custommainmenu:textures/btn.png",
+            "posX" : 100,
+            "posY" : 50,
+            "width" : 153,
+            "height" : 20,
+			imageWidth : 100,
+			imageHeight : 50,
+			"alignment" : "left_center",
+			"hoverText" : ":(",
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+        
+		"refresh":
+        {
+            "text" : "",
+            "posX" : -154,
+            "posY" : 132,
+            "width" : 20,
+            "height" : 20,
+            "texture" : "custommainmenu:textures/button.png",
+            "action" : 
+            {
+                "type" : "refresh"
+            }
+        },
+		
+        "mods":
+        {
+            "text" : "Mody (#modsloaded#/#modsactive#)",
+			"normalTextColor" : 6710886,
+			"hoverTextColor" : 3125670,
+			"texture" : "custommainmenu:textures/btn.png",
+            "posX" : 100,
+            "posY" : 80,
+            "width" : 153,
+            "height" : 20,
+			imageWidth : 100,
+			imageHeight : 50,
+			imageWidth : 100,
+			imageHeight : 50,
+			"alignment" : "left_center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        }
+	},
+    
+    "texts":
+    {
+        "wersja":
+        {
+            "text" : "Wersja: 3.2",
+            "posX" : 2,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        },
+
+        
+	"packTxt":
+        {
+            "text" : "AAIII - 0.0.1a",
+            "posX" : 2,
+            "posY" : -25,
+            "color" : -1,
+            "alignment" : ""
+        }
+    },
+    
+	
+	"alignments":
+    {
+        "c1":
+        {
+            "factorWidth" : 0.5,
+            "factorHeight" : 0.7
+        },
+ 
+        "c2":
+        {
+            "factorWidth" : 0.2,
+            "factorHeight" : 0.2
+        }
+    },
+	
+    "other":
+    {
+		"background":
+		{
+			"image" : "custommainmenu:textures/dgmenu.png",
+			"mode" : "stretch"
+		}
+    }
+}

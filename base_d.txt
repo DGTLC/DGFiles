@@ -1,6 +1,10 @@
 /
 /mods
 /mods/1.12.2
+/mods/memory_repo
+/mods/memory_repo/blusunrize
+/mods/memory_repo/blusunrize/ImmersiveEngineering-core
+/mods/memory_repo/blusunrize/ImmersiveEngineering-core/0.12-98
 /scripts
 /config
 /config/athenaeum

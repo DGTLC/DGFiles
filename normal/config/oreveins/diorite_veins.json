@@ -1,0 +1,125 @@
+{
+	"diorite_quartz_ore": 
+	{
+		"type": "cluster",
+		"ore": "ore:oreQuartz",
+		"stone": { "block": "minecraft:stone", "meta": 3 },
+		"rarity": 22,
+		"min_y": 16,
+		"max_y": 64,
+		"vertical_size": 10,
+		"horizontal_size": 10,
+		"density": 100,
+		"count": 1
+	},
+  
+	"diorite_coal_ore": 
+	{
+		"type": "sphere",
+		"ore": "ore:oreCoal",
+		"indicator": 
+		{
+			"blocks": "minecraft:deadbush",
+			"blocks_under": "minecraft:sand",
+			"rarity": 3
+		},
+		"stone": { "block": "minecraft:stone", "meta": 3 },
+		"rarity": 21,
+		"min_y": 16,
+		"max_y": 128,
+		"density": 80,
+		"vertical_size": 10,
+		"horizontal_size": 10,
+		"count": 1
+	},
+  
+	"diorite_redstone_ore": 
+	{
+		"type": "cluster",
+		"ore": "ore:oreRedstone",
+		"stone": { "block": "minecraft:stone", "meta": 3 },
+		"rarity": 32,
+		"min_y": 0,
+		"max_y": 40,
+		"density": 25,
+		"vertical_size": 20,
+		"horizontal_size": 10,
+		"count": 1
+	},
+	
+	"diorite_emerald_ore": 
+	{
+		"type": "cluster",
+		"ore": "ore:oreEmerald",
+		"stone": { "block": "minecraft:stone", "meta": 3 },
+		"rarity": 32,
+		"count": 3,
+		"min_y": 0,
+		"max_y": 40,
+		"density": 40,
+		"vertical_size": 7,
+		"horizontal_size": 9
+	},
+	
+	"diorite_diamond_ore": 
+	{
+		"type": "cluster",
+		"ore": "ore:oreDiamond",
+		"stone": { "block": "minecraft:stone", "meta": 3 },
+		"rarity": 34,
+		"count": 1,
+		"min_y": 0,
+		"max_y": 25,
+		"density": 50,
+		"vertical_size": 6,
+		"horizontal_size": 9
+	},
+	
+	"diorite_aluminum_ore": 
+	{
+		"type": "cluster",
+		"ore": "ore:oreAluminum",
+		"stone": { "block": "minecraft:stone", "meta": 3 },
+		"rarity": 22,
+		"min_y": 40,
+		"max_y": 85,
+		"vertical_size": 11,
+		"horizontal_size": 11,
+		"density": 100,
+		"count": 1
+	},
+
+	"diorite_silver_ore": 
+	{
+		"type": "cluster",
+		"ore": "ore:oreSilver",
+		"stone": { "block": "minecraft:stone", "meta": 3 },
+		"rarity": 30,
+		"min_y": 8,
+		"max_y": 40,
+		"vertical_size": 11,
+		"horizontal_size": 11,
+		"density": 100,
+		"count": 1
+	},
+	
+	"diorite_uranium_ore": 
+	{
+		"type": "cluster",
+		"ore": "ore:oreUranium",
+		"stone": { "block": "minecraft:stone", "meta": 3 },
+		"indicator": 
+		{
+			"blocks": "minecraft:double_plant",
+			"rarity": 3,
+			"max_depth": 60
+		},
+		"rarity": 32,
+		"min_y": 8,
+		"max_y": 24,
+		"vertical_size": 6,
+		"horizontal_size": 5,
+		"density": 100,
+		"count": 1
+	}
+}
