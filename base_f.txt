@@ -22,12 +22,10 @@ f7ae98bdc5f46acb3eed5bae8d3c952b
 e8f289624d99a67ee3b78c6524b96b45
 /mods/1.12.2/Voice+Chat+Reloaded-1.2.2 [Sama nazwa mowi].jar
 bb4dd904be03f399aeadae4db8536dcd
+/mods/1.12.2/cyberware-1.12.2-0.2.11.24 [Mechaniczne czesci ciala].jar
+30915991eabead92bcf0871a4f9166d8
 /mods/1.12.2/ReWIRED-1.0.9b [CyberWare Addon].jar
 aafea85e6d8619a6d30b9477f293112e
-/mods/1.12.2/ChunkAnimator-MC1.12-1.2 [Animacje ladowania chunków].jar
-47667bc52f07c777263ac5345c6a42ec
-/mods/1.12.2/cyberware-1.12.2-0.2.11.24 [Mechaniczne czesci ciała].jar
-30915991eabead92bcf0871a4f9166d8
 /mods/1.12.2/locks-1.12.2-2.5.1 [Zamki i inne wlamania xD].jar
 4edd554369a6c9e7fa50245acec7f65d
 /mods/1.12.2/NotEnoughIDs-1.5.4.4 [Wieksza ilosc ID].jar
@@ -134,6 +132,8 @@ e690d5759ce895c0cf594c0228165b15
 6abdadb259cac735ff85fce91888b9ac
 /mods/1.12.2/ImmersivePosts-0.2.1 {IE} [Slupy customowe].jar
 d2df966203a439ee154642f01f09955e
+/mods/1.12.2/ChunkAnimator-MC1.12-1.2 [Animacje ladowania chunkow].jar
+47667bc52f07c777263ac5345c6a42ec
 /mods/1.12.2/OfflineSkins-1.12.2-v6 [Skiny premek].jar
 0f6a73ce19399a58687639e282ea057a
 /mods/1.12.2/backpack-3.0.2-1.12.2 [Plecaki].jar
