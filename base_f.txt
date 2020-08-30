@@ -172,6 +172,8 @@ fb2a8a8c11eb4c674cb52833ea8a8bfa
 87a4666549a60d8fb423883dd4ee6232
 /mods/DiscordSuite-2.2.4.jar
 e72b9dc2e36150e4ada0e7dd90a631a7
+/mods/WorldEditCUIForgeEdition2-2.2.0-mf-1.12.2-14.23.5.2768.jar
+2b8c1c3bc48c2d80b71daa658f656edb
 /scripts/04_pams_hc_ie_fermenter.zs
 a354da131ad5b1f7df2d346ec5ab0dfb
 /scripts/MineTweakerRecipeMaker.zs
