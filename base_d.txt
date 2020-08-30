@@ -10,6 +10,7 @@
 /config/athenaeum
 /config/treechopper
 /config/PressurePipes
+/config/PressurePipes/overrides
 /config/pjc
 /config/authentic
 /config/forgeendertech
@@ -19,6 +20,7 @@
 /config/adchimneys/Containers
 /config/adchimneys/Emitters
 /config/jei
+/config/dropt
 /config/adpother
 /config/adpother/Fuels
 /config/adpother/Torches
@@ -34,10 +36,13 @@
 /config/ReWIRED
 /config/toughasnails
 /config/oreveins
+/config/justenoughdimensions
 /config/Guide-API
 /config/spiceoflife
 /config/jeresources
+/config/quark_emotes
 /config/skinsrestorer
+/config/pyrotech
 /config/sereneseasons
 /config/sereneseasons/nppBackup
 /config/machinemuse
