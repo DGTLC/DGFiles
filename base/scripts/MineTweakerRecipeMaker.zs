@@ -12,8 +12,9 @@
 
 // ================================================================================
 //#MARKER REMOVE
-recipes.remove(<locks:key_blank>);
-recipes.remove(<locks:key_ring>);
+recipes.remove(<divergentunderground:diorite_cobblestone>);
+recipes.remove(<divergentunderground:andesite_cobblestone>);
+recipes.remove(<divergentunderground:granite_cobblestone>);
 
 // ================================================================================
 //#MARKER REMOVE SHAPELESS
@@ -29,6 +30,7 @@ recipes.remove(<locks:key_ring>);
 
 // ================================================================================
 //#MARKER ADD SHAPED
-recipes.addShaped(<locks:key_blank>, [[<ore:nuggetIron>], [<ore:nuggetIron>], [<ore:ingotIron>]]);
-recipes.addShaped(<locks:lock>, [[null, <ore:nuggetSteel>, null], [<ore:nuggetSteel>, <immersiveengineering:material:9>, <ore:nuggetSteel>], [<ore:ingotSteel>, <ore:ingotSteel>, <ore:ingotSteel>]]);
+recipes.addShaped(<pyrotech:cobblestone:1>, [[<ore:rockDiorite>, <ore:rockDiorite>], [<ore:rockDiorite>, <ore:rockDiorite>]]);
+recipes.addShaped(<pyrotech:cobblestone>, [[<ore:rockAndesite>, <ore:rockAndesite>], [<ore:rockAndesite>, <ore:rockAndesite>]]);
+recipes.addShaped(<pyrotech:cobblestone:2>, [[<ore:rockGranite>, <ore:rockGranite>], [<ore:rockGranite>, <ore:rockGranite>]]);
 
