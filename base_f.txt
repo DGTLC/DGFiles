@@ -98,6 +98,8 @@ fb70a41f9ebc43c61a1db6ef513c7f83
 54077d32d7075a2c6c8e1991e766102a
 /mods/1.12.2/Pam's+HarvestCraft+1.12.2zg [Jadlo].jar
 e8e1ac67accdeea50116e1e92e592397
+/mods/1.12.2/alternatingflux-0.12.2-2_IE_Transport_energii_na_wieksze_dystansyD.jar
+a3221919c55f5cae56f1fb902cd159b2
 /mods/1.12.2/engineersdecor-1.12.2-1.1.2 {IE} [Dekoracje].jar
 80453102664203d91a049c748474c35c
 /mods/1.12.2/Clumps-3.1.2 [Tylko 1 orb expa].jar
@@ -118,8 +120,6 @@ f4bdcba26a2f6d3dff66856e47ebbecc
 f50c33975c8b19a37bfe5a1b69c786f9
 /mods/1.12.2/QuickLeafDecay-MC1.12.1-1.2.4 [Liscie znikaja szybciej].jar
 e8565fac075a2cef2400ea9bd782ce9c
-/mods/1.12.2/alternatingflux-0.12.2-2 {IE} [Transport energii na większe dystansy]D.jar
-a3221919c55f5cae56f1fb902cd159b2
 /mods/1.12.2/DynamicSwordSkills-1.12.2-6.2.1 [Skille meele].jar
 91a27ec699afea6b21ab561529dd9866
 /mods/1.12.2/Immersive+HempCraft-1.12-0.0.7.1 {IE} [Wspomagacze].jar
