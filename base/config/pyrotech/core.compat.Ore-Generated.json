@@ -1,0 +1,113 @@
+{
+  "__comments": [
+    "WARNING: All changes should be made to the file with the name Custom",
+    "in the title. Changes made to the Generated file will be overwritten.",
+    "",
+    "This file defines ore compatibility.",
+    "",
+    "Slag content will be generated for each oredict entry.",
+    "",
+    "The first valid key in each langKey list will be chosen; reorder keys",
+    "to change which key is selected.",
+    "",
+    "The first valid nugget in each output list will be chosen; reorder nuggets",
+    "to change which nugget is selected.",
+    "",
+    "Slag color is a hex color code without the #",
+    "",
+    "Lang keys are in the format: (domain):(key)",
+    "",
+    "Output item strings are in the format: (domain):(path):(meta)"
+  ],
+  "oredict": {
+    "oreAluminum": {
+      "slagColor": "e2e2e3",
+      "langKey": [
+        "divergentunderground:item.divergentunderground.ore_ie_aluminum",
+        "divergentunderground:tile.divergentunderground.ie_hard_aluminum_ore",
+        "immersiveengineering:tile.immersiveengineering.ore.aluminum"
+      ],
+      "output": [
+        "immersiveengineering:metal:21"
+      ]
+    },
+    "oreCopper": {
+      "slagColor": "ffaa1c",
+      "langKey": [
+        "divergentunderground:item.divergentunderground.ore_ie_copper",
+        "divergentunderground:tile.divergentunderground.ie_hard_copper_ore",
+        "immersiveengineering:tile.immersiveengineering.ore.copper"
+      ],
+      "output": [
+        "immersiveengineering:metal:20"
+      ]
+    },
+    "oreGold": {
+      "slagColor": "fcee4b",
+      "langKey": [
+        "divergentunderground:item.divergentunderground.ore_gold",
+        "divergentunderground:tile.divergentunderground.hard_gold_ore",
+        "minecraft:tile.oreGold"
+      ],
+      "output": [
+        "minecraft:gold_nugget:0"
+      ]
+    },
+    "oreIron": {
+      "slagColor": "d8af93",
+      "langKey": [
+        "divergentunderground:item.divergentunderground.ore_iron",
+        "divergentunderground:tile.divergentunderground.hard_iron_ore",
+        "minecraft:tile.oreIron"
+      ],
+      "output": [
+        "immersiveengineering:metal:29",
+        "minecraft:iron_nugget:0"
+      ]
+    },
+    "oreLead": {
+      "slagColor": "95afee",
+      "langKey": [
+        "divergentunderground:item.divergentunderground.ore_ie_lead",
+        "divergentunderground:tile.divergentunderground.ie_hard_lead_ore",
+        "immersiveengineering:tile.immersiveengineering.ore.lead"
+      ],
+      "output": [
+        "immersiveengineering:metal:22"
+      ]
+    },
+    "oreNickel": {
+      "slagColor": "e4e5d8",
+      "langKey": [
+        "divergentunderground:item.divergentunderground.ore_ie_nickel",
+        "divergentunderground:tile.divergentunderground.ie_hard_nickel_ore",
+        "immersiveengineering:tile.immersiveengineering.ore.nickel"
+      ],
+      "output": [
+        "immersiveengineering:metal:24"
+      ]
+    },
+    "oreSilver": {
+      "slagColor": "e8f6fd",
+      "langKey": [
+        "divergentunderground:item.divergentunderground.ore_ie_silver",
+        "divergentunderground:tile.divergentunderground.ie_hard_silver_ore",
+        "immersiveengineering:tile.immersiveengineering.ore.silver"
+      ],
+      "output": [
+        "immersiveengineering:metal:23"
+      ]
+    },
+    "oreUranium": {
+      "slagColor": "5c734b",
+      "langKey": [
+        "divergentunderground:item.divergentunderground.ore_ie_uranium",
+        "divergentunderground:tile.divergentunderground.ie_hard_uranium_ore",
+        "immersiveengineering:tile.immersiveengineering.ore.uranium"
+      ],
+      "output": [
+        "immersiveengineering:metal:25"
+      ]
+    }
+  }
+}

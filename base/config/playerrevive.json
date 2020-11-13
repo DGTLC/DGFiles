@@ -6,7 +6,7 @@
   "banPlayerAfterDeath": false,
   "exhaustion": 0.5,
   "disableSounds": false,
-  "disableBleedingMessage": false,
+  "disableBleedingMessage": true,
   "disableGiveUp": false,
   "disableDisconnect": true,
   "allowCommandsWhileBleeding": false,
