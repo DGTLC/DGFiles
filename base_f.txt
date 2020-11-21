@@ -72,6 +72,8 @@ ef89fab62d1914ea0e25d2c31b453695
 ae0a7fa4d861f50140495de94aaf98f6
 /mods/1.12.2/CTM-MC1.12.2-1.0.2.31 [Chisel addon].jar
 77a8bb5486c97e3eaa6f45e5bd768864
+/mods/1.12.2/chiselsandbits-14.33.jar
+e056e23559965f2ebabf47aad0fe51a3
 /mods/1.12.2/dropt-1.12.2-1.18.0 [Zmiana dropu].jar
 a8c9290de5639ef38ccd06e5b68fd97b
 /mods/1.12.2/PlayerRevive_v1.2.37_mc1.12.2 [Ratowanie poleglych.jar
