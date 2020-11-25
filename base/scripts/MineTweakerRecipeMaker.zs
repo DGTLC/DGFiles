@@ -12,6 +12,8 @@
 
 // ================================================================================
 //#MARKER REMOVE
+recipes.remove(<minecraft:crafting_table>);
+recipes.remove(<minecraft:furnace>);
 recipes.remove(<divergentunderground:diorite_cobblestone>);
 recipes.remove(<divergentunderground:andesite_cobblestone>);
 recipes.remove(<divergentunderground:granite_cobblestone>);
@@ -27,6 +29,8 @@ recipes.remove(<divergentunderground:granite_cobblestone>);
 
 // ================================================================================
 //#MARKER ADD SHAPELESS
+recipes.addShapeless(<minecraft:crafting_table>, [<immersiveengineering:treated_wood>, <immersiveengineering:treated_wood>, <immersiveengineering:treated_wood>, <pyrotech:iron_hammer>, <ore:ingotIron>, <minecraft:iron_axe>, <ore:plankWood>, <ore:plankWood>, <ore:plankWood>]);
+recipes.addShapeless(<minecraft:furnace>, [<pyrotech:stone_bricks>, <pyrotech:stone_bricks>, <pyrotech:stone_bricks>, <pyrotech:igniter>, <pyrotech:stone_kiln>, <pyrotech:stone_bricks>, <immersiveengineering:metal_decoration0:3>, <toughasnails:temperature_coil:1>, <immersiveengineering:material:27>]);
 
 // ================================================================================
 //#MARKER ADD SHAPED

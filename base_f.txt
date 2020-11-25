@@ -36,8 +36,6 @@ f87459f517ae8c52acce5c2ce9dbac19
 39634afb9279ab287b9d6772ee863d7c
 /mods/1.12.2/ReWIRED-1.0.9b [CyberWare Addon].jar
 aafea85e6d8619a6d30b9477f293112e
-/mods/1.12.2/Divergent-Underground-1.12-0.64.0 [Fragmenty rud, glebiej trudniej sie kopie]D.jar
-be03f97645acef09d11a20406c0781fc
 /mods/1.12.2/locks-1.12.2-2.5.1 [Zamki i inne wlamania xD].jar
 4edd554369a6c9e7fa50245acec7f65d
 /mods/1.12.2/0unloader-1.2.0 [Rozładowywanie chunkow]D.jar
@@ -108,6 +106,8 @@ a3221919c55f5cae56f1fb902cd159b2
 e0c4c4f04aeb0e0a48fc7534f9e7d6be
 /mods/1.12.2/cyberware-1.12.2-0.2.11.26 [Mechaniczne czesci ciala].jar
 d4528eed66d963de6bbee709fb6c2c1a
+/mods/1.12.2/tetra-1.12.2-0.39.1_Ulepszanie_broni.jar
+9e9db45a08dd7ca24e2c02a069ca214f
 /mods/1.12.2/0performant-1.12.2-1.10 [Optymalka]D.jar
 62a7c679562f726af9e93995ec244ad7
 /mods/1.12.2/HardcoreDarkness-MC1.12.2-2.0 [Mrok]D.jar
@@ -157,7 +157,7 @@ a8f7f1c5dbb66e06e724f094c7d2aad6
 /scripts/04_pams_hc_ie_fermenter.zs
 a354da131ad5b1f7df2d346ec5ab0dfb
 /scripts/MineTweakerRecipeMaker.zs
-3cafd858ea90b5372c7fce00c7c3b3b9
+491af53d6ff8e46d447947fc97c94ed4
 /config/chunkanimator.cfg
 839d272da849c782740a279cf23e32b9
 /config/chisel.cfg
