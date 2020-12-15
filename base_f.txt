@@ -6,14 +6,16 @@ d117e26e6b578b18d25848f578e86c3b
 4bfa24b12dc9b8eef8a0df6130a0922b
 /mods/1.12.2/MTLib-3.0.6 [ModTweaker Lib]D.jar
 b46748362c046d70b821121331246aa5
-/mods/1.12.2/chopdownupdated-1.12.2-1.2.4 [Scinanie drzew]D.jar
-3e242bef23544ee58048b21da4054f04
+/mods/1.12.2/LibVulpes-1.12.2-0.4.2-75-universal [Lib do ADV Rocketry].jar
+d0bc44a9f1401a6da2419e48f287da55
 /mods/1.12.2/SpiceOfLife-mc1.12-1.3.12 [Nie zjesz ciagle tego samego]D.jar
 5a4c30010b31c5af956f2d597fa5a29f
 /mods/1.12.2/ForgeEndertech-1.12.2-4.5.4.0-build.0534 [Libek do zanieczyszczen].jar
 7cc4f92df4d2d565512848d2c0f775a5
 /mods/1.12.2/betterportals-0.3.7.7 [Widzi sie przez portal].jar
 2049e557e278252c8c77b4bd3d206836
+/mods/1.12.2/AdvancedRocketry-1.12.2-1.7.0-235-universal [Kosmos itp].jar
+f60b4dbbfd23a7f905eb1c6419b2f2f3
 /mods/1.12.2/lieutenant-1.12 [Core do difficultymoda].jar
 7c42859b681d1e4dbda3345bdc16bb5a
 /mods/1.12.2/OfflineSkins-1.12.2-v6 [Skiny premek]D.jar
@@ -22,18 +24,16 @@ b46748362c046d70b821121331246aa5
 1bb26148768a05d62a94e6b258bb3407
 /mods/1.12.2/Bloodmoon-MC1.12.2-1.5.3 [Sama nazwa mowi]D.jar
 6abdadb259cac735ff85fce91888b9ac
+/mods/1.12.2/rustic-1.1.7 [Dekoracje, alko itp].jar
+e5fc580c4f69dd2e8b830ef2d814e34f
 /mods/1.12.2/0BetterFps-1.4.8 [Optymalizator]D.jar
 d36f4d3c0f96e99a9a1ad2e8eeda1fc4
-/mods/1.12.2/extra-tan-5.2.591 {TAN} [Dodatek do Tan].jar
-0a5758854b6662c2d519d7e45fe1cd25
 /mods/1.12.2/BiomeColorizer-1.12.2-v1.0.2 [Intensywnosc kolorow biomow].jar
 f87459f517ae8c52acce5c2ce9dbac19
 /mods/1.12.2/CreativeCore_v1.10.34_mc1.12.2 [Core do ItemPhisic].jar
 02c162358c916a21c466d18e86cf909d
 /mods/1.12.2/Born+In+A+Barn+V1.8-1.12-1.1 [Unloader drzwi npc].jar
 944a413889537655a8c1165d44e2647f
-/mods/1.12.2/ToughAsNails-1.12.2-3.1.0.141-universal [Pasek ciepla postaci]D.jar
-39634afb9279ab287b9d6772ee863d7c
 /mods/1.12.2/ReWIRED-1.0.9b [CyberWare Addon].jar
 aafea85e6d8619a6d30b9477f293112e
 /mods/1.12.2/locks-1.12.2-2.5.1 [Zamki i inne wlamania xD].jar
@@ -58,8 +58,6 @@ a8dd635a81fed59be0d18206fd383f6e
 d79e51706d18eab2ccfa0070c0b7592b
 /mods/1.12.2/craftingstation-0.1.8a [CraftingTable z Tinkersa].jar
 587008d6892acd1d2f4c1b01447c16e3
-/mods/1.12.2/SereneSeasons-1.12.2-1.2.18-universal [Pory roku]D.jar
-ef89fab62d1914ea0e25d2c31b453695
 /mods/1.12.2/CraftTweaker2-1.12-4.1.20.601 [Wiadomo].jar
 078c975f58347e69c7284e0f6e8189fe
 /mods/1.12.2/AdPother-1.12.2-1.2.12.0-build.0558 [Zanieczyszczenia i dymki].jar
@@ -86,8 +84,6 @@ bba94f1ee252fcfbd2d52779f5c2f2b1
 eff6ef5d8c18fa72cf05c6c06c760a35
 /mods/1.12.2/DGWeapons-2.0.0-AU [Wiadomka].jar
 4fd2635c995a54c8f97d52547067051a
-/mods/1.12.2/pyrotech-1.12.2-1.4.34 [Rozwiniety survivalowy start].jar
-18cd8f03c13a1f794707e8382740d9e8
 /mods/1.12.2/immersivepetroleum-1.12.2-1.1.9 {IE} [Paliwko].jar
 57ba127778e579d10d705f9f8359d2e0
 /mods/1.12.2/JustSleep-1.0.0.1 (Odradzanie w wyrku).jar
