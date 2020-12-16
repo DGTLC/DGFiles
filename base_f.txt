@@ -28,12 +28,16 @@ f60b4dbbfd23a7f905eb1c6419b2f2f3
 e5fc580c4f69dd2e8b830ef2d814e34f
 /mods/1.12.2/0BetterFps-1.4.8 [Optymalizator]D.jar
 d36f4d3c0f96e99a9a1ad2e8eeda1fc4
+/mods/1.12.2/extra-tan-5.2.591 {TAN} [Dodatek do Tan].jar
+0a5758854b6662c2d519d7e45fe1cd25
 /mods/1.12.2/BiomeColorizer-1.12.2-v1.0.2 [Intensywnosc kolorow biomow].jar
 f87459f517ae8c52acce5c2ce9dbac19
 /mods/1.12.2/CreativeCore_v1.10.34_mc1.12.2 [Core do ItemPhisic].jar
 02c162358c916a21c466d18e86cf909d
 /mods/1.12.2/Born+In+A+Barn+V1.8-1.12-1.1 [Unloader drzwi npc].jar
 944a413889537655a8c1165d44e2647f
+/mods/1.12.2/ToughAsNails-1.12.2-3.1.0.141-universal [Pasek ciepla postaci]D.jar
+39634afb9279ab287b9d6772ee863d7c
 /mods/1.12.2/ReWIRED-1.0.9b [CyberWare Addon].jar
 aafea85e6d8619a6d30b9477f293112e
 /mods/1.12.2/locks-1.12.2-2.5.1 [Zamki i inne wlamania xD].jar
@@ -148,12 +152,8 @@ d1d921d9bb092ee3b5fd193abe95db32
 e62798c555f5520c31a7efb68c0ba170
 /mods/memory_repo/blusunrize/ImmersiveEngineering-core/0.12-98/ImmersiveEngineering-core-0.12-98.jar
 1a54e0e65323328f814c139860e34475
-/scripts/PyroTech.zs
-a8f7f1c5dbb66e06e724f094c7d2aad6
 /scripts/04_pams_hc_ie_fermenter.zs
 a354da131ad5b1f7df2d346ec5ab0dfb
-/scripts/MineTweakerRecipeMaker.zs
-491af53d6ff8e46d447947fc97c94ed4
 /config/chunkanimator.cfg
 839d272da849c782740a279cf23e32b9
 /config/chisel.cfg
