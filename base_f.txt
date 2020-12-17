@@ -142,6 +142,10 @@ d2df966203a439ee154642f01f09955e
 13f62131ab2fff6212301ee70f6bf5d8
 /mods/1.12.2/OTG-Core.jar
 50876f4b88d1b9aaf4efe7b01bbb0f8d
+/mods/1.12.2/TreeCapitator-client-1.43.0.jar
+08f5d4cf4987e8b099623052196d8f79
+/mods/1.12.2/bspkrsCore-universal-7.6.0.1.jar
+c916e0be02b2522054c22016faed7ed8
 /mods/1.12.2/OfflineSkins-1.12.2-v6-core.jar
 afba51cd356ea67cfc2c16f62be7d032
 /mods/1.12.2/AttributeFix-1.12.2-1.0.4 [Brak limitow atrybutow (hp armor itp)].jar
