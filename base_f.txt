@@ -12,8 +12,6 @@ d0bc44a9f1401a6da2419e48f287da55
 5a4c30010b31c5af956f2d597fa5a29f
 /mods/1.12.2/ForgeEndertech-1.12.2-4.5.4.0-build.0534 [Libek do zanieczyszczen].jar
 7cc4f92df4d2d565512848d2c0f775a5
-/mods/1.12.2/betterportals-0.3.7.7 [Widzi sie przez portal].jar
-2049e557e278252c8c77b4bd3d206836
 /mods/1.12.2/AdvancedRocketry-1.12.2-1.7.0-235-universal [Kosmos itp].jar
 f60b4dbbfd23a7f905eb1c6419b2f2f3
 /mods/1.12.2/lieutenant-1.12 [Core do difficultymoda].jar
