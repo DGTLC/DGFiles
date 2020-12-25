@@ -22,8 +22,6 @@ f60b4dbbfd23a7f905eb1c6419b2f2f3
 1bb26148768a05d62a94e6b258bb3407
 /mods/1.12.2/Bloodmoon-MC1.12.2-1.5.3 [Sama nazwa mowi]D.jar
 6abdadb259cac735ff85fce91888b9ac
-/mods/1.12.2/rustic-1.1.7 [Dekoracje, alko itp].jar
-e5fc580c4f69dd2e8b830ef2d814e34f
 /mods/1.12.2/0BetterFps-1.4.8 [Optymalizator]D.jar
 d36f4d3c0f96e99a9a1ad2e8eeda1fc4
 /mods/1.12.2/extra-tan-5.2.591 {TAN} [Dodatek do Tan].jar
@@ -156,6 +154,8 @@ e62798c555f5520c31a7efb68c0ba170
 1a54e0e65323328f814c139860e34475
 /scripts/04_pams_hc_ie_fermenter.zs
 a354da131ad5b1f7df2d346ec5ab0dfb
+/scripts/MineTweakerRecipeMaker.zs
+2b29e6f0ca12d0c7ea951185d99afc4b
 /config/chunkanimator.cfg
 839d272da849c782740a279cf23e32b9
 /config/chisel.cfg
