@@ -1,0 +1,35 @@
+{
+  "rules": [
+    {
+      "match": {
+        "blocks": {
+          "blocks": [
+            "minecraft:double_plant:2"
+          ]
+        }
+      },
+      "replaceStrategy": "ADD",
+      "drops": [
+        {
+          "selector": {
+            "weight": {
+              "value": 80
+            }
+          }
+        },
+        {
+          "selector": {
+            "weight": {
+              "value": 20
+            }
+          },
+          "item": {
+            "items" : [
+              "immersiveengineering:seed"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
