@@ -23,41 +23,46 @@
     "oreAluminum": {
       "slagColor": "e2e2e3",
       "langKey": [
-        "divergentunderground:item.divergentunderground.ore_ie_aluminum",
-        "divergentunderground:tile.divergentunderground.ie_hard_aluminum_ore",
-        "immersiveengineering:tile.immersiveengineering.ore.aluminum"
+        "immersiveengineering:tile.immersiveengineering.ore.aluminum",
+        "libvulpes:material.Aluminum"
       ],
       "output": [
-        "immersiveengineering:metal:21"
+        "immersiveengineering:metal:21",
+        "libvulpes:productnugget:9"
       ]
     },
     "oreCopper": {
       "slagColor": "ffaa1c",
       "langKey": [
-        "divergentunderground:item.divergentunderground.ore_ie_copper",
-        "divergentunderground:tile.divergentunderground.ie_hard_copper_ore",
-        "immersiveengineering:tile.immersiveengineering.ore.copper"
+        "immersiveengineering:tile.immersiveengineering.ore.copper",
+        "libvulpes:material.Copper"
       ],
       "output": [
-        "immersiveengineering:metal:20"
+        "immersiveengineering:metal:20",
+        "libvulpes:productnugget:4"
       ]
     },
     "oreGold": {
       "slagColor": "fcee4b",
       "langKey": [
-        "divergentunderground:item.divergentunderground.ore_gold",
-        "divergentunderground:tile.divergentunderground.hard_gold_ore",
         "minecraft:tile.oreGold"
       ],
       "output": [
         "minecraft:gold_nugget:0"
       ]
     },
+    "oreIridium": {
+      "slagColor": "d5d4e7",
+      "langKey": [
+        "libvulpes:material.Iridium"
+      ],
+      "output": [
+        "libvulpes:productnugget:10"
+      ]
+    },
     "oreIron": {
       "slagColor": "d8af93",
       "langKey": [
-        "divergentunderground:item.divergentunderground.ore_iron",
-        "divergentunderground:tile.divergentunderground.hard_iron_ore",
         "minecraft:tile.oreIron"
       ],
       "output": [
@@ -68,8 +73,6 @@
     "oreLead": {
       "slagColor": "95afee",
       "langKey": [
-        "divergentunderground:item.divergentunderground.ore_ie_lead",
-        "divergentunderground:tile.divergentunderground.ie_hard_lead_ore",
         "immersiveengineering:tile.immersiveengineering.ore.lead"
       ],
       "output": [
@@ -79,8 +82,6 @@
     "oreNickel": {
       "slagColor": "e4e5d8",
       "langKey": [
-        "divergentunderground:item.divergentunderground.ore_ie_nickel",
-        "divergentunderground:tile.divergentunderground.ie_hard_nickel_ore",
         "immersiveengineering:tile.immersiveengineering.ore.nickel"
       ],
       "output": [
@@ -90,19 +91,24 @@
     "oreSilver": {
       "slagColor": "e8f6fd",
       "langKey": [
-        "divergentunderground:item.divergentunderground.ore_ie_silver",
-        "divergentunderground:tile.divergentunderground.ie_hard_silver_ore",
         "immersiveengineering:tile.immersiveengineering.ore.silver"
       ],
       "output": [
         "immersiveengineering:metal:23"
       ]
     },
+    "oreTin": {
+      "slagColor": "c3e9ff",
+      "langKey": [
+        "libvulpes:material.Tin"
+      ],
+      "output": [
+        "libvulpes:productnugget:5"
+      ]
+    },
     "oreUranium": {
       "slagColor": "5c734b",
       "langKey": [
-        "divergentunderground:item.divergentunderground.ore_ie_uranium",
-        "divergentunderground:tile.divergentunderground.ie_hard_uranium_ore",
         "immersiveengineering:tile.immersiveengineering.ore.uranium"
       ],
       "output": [
