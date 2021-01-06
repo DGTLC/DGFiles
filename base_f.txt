@@ -18,6 +18,8 @@ f60b4dbbfd23a7f905eb1c6419b2f2f3
 7c42859b681d1e4dbda3345bdc16bb5a
 /mods/1.12.2/OfflineSkins-1.12.2-v6 [Skiny premek]D.jar
 0f6a73ce19399a58687639e282ea057a
+/mods/1.12.2/GeographiCraft-1.12-0.8.9b.jar
+0b2165b05a7b3851273691e4126b2e4e
 /mods/1.12.2/0randompatches-1.12.2-1.22.1.7 [Optymalka].jar
 1bb26148768a05d62a94e6b258bb3407
 /mods/1.12.2/Bloodmoon-MC1.12.2-1.5.3 [Sama nazwa mowi]D.jar
@@ -50,6 +52,10 @@ b836648006f1451c65d33f7132eec770
 3ab1a5c4b069d574631da5bc1880ebf7
 /mods/1.12.2/AdChimneys-1.12.2-3.5.14.0-build.0505 [Dodatek do zanieczyszczen].jar
 3c5abacc846e1167e4b1a1d2d4f10b3c
+/mods/1.12.2/RTG-1.12.2-6.1.0.0-snapshot.1.jar
+08de37000d2c97ffc9c6da61f3cd6aaa
+/mods/1.12.2/BiomesOPlenty-1.12.2-7.0.1.2444-universal.jar
+4c1d23b8a58b6aaa9a5204fae3f18393
 /mods/1.12.2/RebornCore-1.12.2 [JustSleep Core]l.jar
 8d5500c19c06b758705071ab9c64d812
 /mods/1.12.2/AppleCore-mc1.12.2-3.4.0 [SpiceOfLife lib].jar
@@ -74,16 +80,12 @@ e056e23559965f2ebabf47aad0fe51a3
 a8c9290de5639ef38ccd06e5b68fd97b
 /mods/1.12.2/PlayerRevive_v1.2.37_mc1.12.2 [Ratowanie poleglych.jar
 9cb48ce926354a76491d0a5f65dd5074
-/mods/1.12.2/OpenTerrainGenerator-1.12.2+-+v6.jar
-6f4bcf42544bf1b0795078ab8c4219cd
 /mods/1.12.2/0foamfix-0.10.10-1.12.2 [Opymalizaotr]D.jar
 bba94f1ee252fcfbd2d52779f5c2f2b1
 /mods/1.12.2/Chisel-MC1.12.2-1.0.2.45 [To wiadomka].jar
 54afc298f94e708f0e1cdf399200b2cb
 /mods/1.12.2/BadMobs-1.12.2-1.1.28 [Kontrola nad mobami].jar
 eff6ef5d8c18fa72cf05c6c06c760a35
-/mods/1.12.2/DGWeapons-2.0.0-AU [Wiadomka].jar
-4fd2635c995a54c8f97d52547067051a
 /mods/1.12.2/immersivepetroleum-1.12.2-1.1.9 {IE} [Paliwko].jar
 57ba127778e579d10d705f9f8359d2e0
 /mods/1.12.2/JustSleep-1.0.0.1 (Odradzanie w wyrku).jar
@@ -106,8 +108,6 @@ e0c4c4f04aeb0e0a48fc7534f9e7d6be
 d4528eed66d963de6bbee709fb6c2c1a
 /mods/1.12.2/tetra-1.12.2-0.39.1_Ulepszanie_broni.jar
 9e9db45a08dd7ca24e2c02a069ca214f
-/mods/1.12.2/0performant-1.12.2-1.10 [Optymalka]D.jar
-62a7c679562f726af9e93995ec244ad7
 /mods/1.12.2/HardcoreDarkness-MC1.12.2-2.0 [Mrok]D.jar
 f4bdcba26a2f6d3dff66856e47ebbecc
 /mods/1.12.2/biggerpacketsplz-since1.8-1.2 [Kasacja zbyt wielkich pakietow].jar
@@ -128,18 +128,16 @@ e8565fac075a2cef2400ea9bd782ce9c
 845bdff742f44f42021458ea2897291e
 /mods/1.12.2/ChunkAnimator-MC1.12-1.2 [Animacje ladowania chunkow]D.jar
 47667bc52f07c777263ac5345c6a42ec
-/mods/1.12.2/Traveler'sDream-1.12.2-v1.5 {OTG} [Generator].jar
-ea41c4a43e4209adaa18dc00fa6dda56
 /mods/1.12.2/betternether-0.1.8.6 [Lepsze pieklo]D.jar
 ad400778cbe98a73f0a2686190dcd079
 /mods/1.12.2/athenaeum-1.12.2-1.19.2 [Dropt Lib].jar
 7b5b3e8a433c8f59f112d0be1d3ca31a
+/mods/1.12.2/BiomeTweaker-1.12.2-3.2.369.jar
+02a0b9a048391180ce7f06cd2e874c31
 /mods/1.12.2/ImmersivePosts-0.2.1 {IE} [Slupy customowe].jar
 d2df966203a439ee154642f01f09955e
 /mods/1.12.2/0phosphor-forge-mc1.12.2-0.2.7 [Swiatlo Optymalka]D.jar
 13f62131ab2fff6212301ee70f6bf5d8
-/mods/1.12.2/OTG-Core.jar
-50876f4b88d1b9aaf4efe7b01bbb0f8d
 /mods/1.12.2/TreeCapitator-client-1.43.0.jar
 08f5d4cf4987e8b099623052196d8f79
 /mods/1.12.2/bspkrsCore-universal-7.6.0.1.jar
@@ -1865,7 +1863,7 @@ fbcb4e6de40b3a1b60a2c519fe51e611
 /config/betternether.cfg
 c4b396fb7f15c7a38efd5bdbad37e332
 /config/betteranimalsplus.cfg
-324a20a02a295db70c4d3fcf5520d00f
+6855e768a5c79316fce75239d348d0c3
 /config/betterfps.json
 637f01b851e87155e92d4cb1a382f4ed
 /config/immersivehempcraft.cfg
