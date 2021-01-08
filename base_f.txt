@@ -38,6 +38,8 @@ f87459f517ae8c52acce5c2ce9dbac19
 39634afb9279ab287b9d6772ee863d7c
 /mods/1.12.2/ReWIRED-1.0.9b [CyberWare Addon].jar
 aafea85e6d8619a6d30b9477f293112e
+/mods/1.12.2/refinedstorage-1.6.16.jar
+0b5e41f29c3ceb1db560531fef9f55a2
 /mods/1.12.2/locks-1.12.2-2.5.1 [Zamki i inne wlamania xD].jar
 4edd554369a6c9e7fa50245acec7f65d
 /mods/1.12.2/0unloader-1.2.0 [Rozładowywanie chunkow]D.jar
@@ -157,7 +159,7 @@ a8f7f1c5dbb66e06e724f094c7d2aad6
 /scripts/04_pams_hc_ie_fermenter.zs
 a354da131ad5b1f7df2d346ec5ab0dfb
 /scripts/MineTweakerRecipeMaker.zs
-2b29e6f0ca12d0c7ea951185d99afc4b
+b03fb8624f8b8338ab787f24bca7e2dd
 /config/chunkanimator.cfg
 839d272da849c782740a279cf23e32b9
 /config/chisel.cfg
