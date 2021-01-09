@@ -12,6 +12,11 @@
 
 // ================================================================================
 //#MARKER REMOVE
+recipes.remove(<harvestcraft:shippingbin>);
+recipes.remove(<harvestcraft:market>);
+recipes.remove(<locks:key_blank>);
+recipes.remove(<locks:lock_pick>);
+recipes.remove(<locks:lock>);
 recipes.remove(<harvestcraft:freshwateritem>);
 
 // ================================================================================
@@ -28,5 +33,8 @@ recipes.remove(<harvestcraft:freshwateritem>);
 
 // ================================================================================
 //#MARKER ADD SHAPED
+recipes.addShaped(<locks:lock_pick>, [[null, <ore:nuggetAluminum>, <ore:leather>], [<ore:nuggetAluminum>, <ore:ingotIron>, <ore:nuggetAluminum>], [<ore:stickSteel>, <ore:nuggetAluminum>, null]]);
+recipes.addShaped(<locks:lock>, [[<ore:nuggetAluminum>, <ore:ingotIron>, <ore:nuggetAluminum>], [<ore:ingotIron>, <immersiveengineering:metal:21>, <ore:ingotIron>], [<ore:blockIron>, <ore:blockIron>, <ore:blockIron>]]);
+recipes.addShaped(<locks:key_blank>, [[null, <ore:ingotIron>, null], [<ore:nuggetLead>, <ore:ingotIron>, <ore:nuggetLead>], [null, <ore:nuggetLead>, null]]);
 recipes.addShaped(<cyberware:surgery>, [[<ore:blockIron>, <ore:ingotIron>, <ore:blockIron>], [<ore:blockRedstone>, <immersiveengineering:metal_decoration0:4>, <minecraft:observer>], [<ore:blockIron>, <immersiveengineering:metal_decoration0:3>, <ore:blockIron>]]);
 

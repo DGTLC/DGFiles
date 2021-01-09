@@ -56,8 +56,6 @@ b836648006f1451c65d33f7132eec770
 3c5abacc846e1167e4b1a1d2d4f10b3c
 /mods/1.12.2/RTG-1.12.2-6.1.0.0-snapshot.1.jar
 08de37000d2c97ffc9c6da61f3cd6aaa
-/mods/1.12.2/BiomesOPlenty-1.12.2-7.0.1.2444-universal.jar
-4c1d23b8a58b6aaa9a5204fae3f18393
 /mods/1.12.2/RebornCore-1.12.2 [JustSleep Core]l.jar
 8d5500c19c06b758705071ab9c64d812
 /mods/1.12.2/AppleCore-mc1.12.2-3.4.0 [SpiceOfLife lib].jar
@@ -159,7 +157,7 @@ a8f7f1c5dbb66e06e724f094c7d2aad6
 /scripts/04_pams_hc_ie_fermenter.zs
 a354da131ad5b1f7df2d346ec5ab0dfb
 /scripts/MineTweakerRecipeMaker.zs
-b03fb8624f8b8338ab787f24bca7e2dd
+a581eed0154ddf1dbf2c67ee0d373c4b
 /config/chunkanimator.cfg
 839d272da849c782740a279cf23e32b9
 /config/chisel.cfg
@@ -207,7 +205,7 @@ db7b30e1b6013f3ea4282119af14d8c9
 /config/jeiintegration.cfg
 7d493678946a7cf99f632c06c858c4fb
 /config/locks.cfg
-4cc30dab2ec3a919380aaf7fa30517bc
+36df0ab666ec2a9be71a304c1d9c13d7
 /config/forgeendertech/Biomes/beaches.cfg
 20039d6526d13ba486e33aaa7689302f
 /config/forgeendertech/Biomes/jungle.cfg
