@@ -38,3 +38,5 @@ e72b9dc2e36150e4ada0e7dd90a631a7
 729878beca32826f7a3c80857a3aa918
 /options.txt
 d4b0688921b03ce8171283ade6a668c4
+/optionsshaders.txt
+dc6adf4ab2f7b34045ede037d2a9a9d5

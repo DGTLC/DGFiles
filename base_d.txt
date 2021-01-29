@@ -301,6 +301,7 @@
 /assets/objects/2d
 /assets/objects/d7
 /assets/indexes
+/shaderpacks
 /libraries
 /libraries/com
 /libraries/com/paulscode

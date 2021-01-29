@@ -4604,6 +4604,10 @@ ae9d8add9d1e31520c33e48be52ebd25
 4f9efd3599bf7b743a6933e5b098d97a
 /assets/indexes/1.12.json
 0cde3ec9e3469ef4c31513637071447e
+/shaderpacks/Enhanced_Default_v1.12.zip
+c9550f3db67019330ffae0d2b7036d8f
+/shaderpacks/Enhanced_Default_v1.12.zip.txt
+6fe45fd240a9a00d347e919fab73b229
 /libraries/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar
 93730cef2e75762c5a1431c6d7a0c78e
 /libraries/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar

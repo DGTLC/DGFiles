@@ -1,0 +1,10 @@
+#Fri Jan 29 21:55:56 CET 2021
+Godrays=true
+smoothDof=false
+skyReflection=true
+Refractions=true
+MB_strength=0.008
+grays_quality=2
+shadowMapResolution=8192
+TAA=true
+sunPathRotation=-0.15f
