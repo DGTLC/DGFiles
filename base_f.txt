@@ -92,8 +92,6 @@ eff6ef5d8c18fa72cf05c6c06c760a35
 fb70a41f9ebc43c61a1db6ef513c7f83
 /mods/1.12.2/betteranimalsplus-1.12.2-9.0.1 [Zwierzeta].jar
 154144d50500329125deac9304c4c23f
-/mods/1.12.2/pyrotech-1.12.2-1.5.5 [Trudniejsze i ciekawsze mechaniki].jar
-89c9bf71b3e4b3296cb95a0fa366d941
 /mods/1.12.2/energyconverters_1.12.2-1.3.7.30 [Konwercja energii].jar
 54077d32d7075a2c6c8e1991e766102a
 /mods/1.12.2/Pam's+HarvestCraft+1.12.2zg [Jadlo].jar
@@ -172,6 +170,8 @@ a581eed0154ddf1dbf2c67ee0d373c4b
 a2792fc075c83d4885ee56e1e6a1c7d5
 /config/treecapitator.cfg
 f6fe5a875454944bfd5aae129729191e
+/config/aquaculture.cfg
+5f527c09f0d8229a29abcb16cdcaaf95
 /config/spiceoflife.cfg
 9d8abed721fa1959a0b4314c2cf6530c
 /config/betteranimals.cfg
@@ -874,6 +874,8 @@ e29c4360037ec12bc8ed006f000bc479
 162de9ed537ea35a716def30f59caa85
 /config/DiscordSuite.cfg
 6a5ea34c6afd938672bf997f527a56bf
+/config/itlt.cfg
+03bb7b729789128c11888b5136310783
 /config/libvulpes.cfg
 df02a729ed0dc3f52b0f67796ee0bca8
 /config/hardcoredarkness.cfg
@@ -904,6 +906,8 @@ bb1de8c16f9e3f59806fb9f850f653da
 c97a70f555e36776945031d0359a0f1a
 /config/engineersdoors.cfg
 130eb6fe7617182dd49217a22327c261
+/config/alcatrazcore.cfg
+c5a6e6f1300013bb3194ff608f7aa8a1
 /config/adpother/Fuels/wood.cfg
 1a1ad59a9f73e2eeaccc01a93b54e496
 /config/adpother/Fuels/fence.cfg
@@ -1848,6 +1852,8 @@ fbcb4e6de40b3a1b60a2c519fe51e611
 49379da7c42398f07ffdde5f901cb8e2
 /config/tetra/tetra.cfg
 8199ff48e26a38ab3d902951f4f38721
+/config/itlt/icon.png
+a3f63d6863f7a2b1c56459f363cd7ca2
 /config/craftingstation.cfg
 2164a0248989beb1e2e22d62290731c4
 /config/waila/theme/vanilla.json
@@ -1932,6 +1938,20 @@ feb2515cd62b40cec4756294e54342cb
 f50ced2900981d62420dae237a57a21a
 /config/spiceoflife/example-food-group.json
 47d496679d6afdb269d677076b147e7f
+/config/antiqueatlas/antiqueatlas.cfg
+2f4ea1f2bb2536319c378ad2ffdced27
+/config/antiqueatlas/tile_textures.json
+5ec504e085a5174e6d9f418d36c6e7b2
+/config/antiqueatlas/markers.json
+38bc8e498f8d7a24683e17f3acc822f1
+/config/antiqueatlas/atlas_overlay.cfg
+de40b0caf7b2cffd6dfa4ab9cb13bbab
+/config/antiqueatlas/texture_sets.json
+67f2e4b1c5f395168d76ba21a109bbc9
+/config/antiqueatlas/biome_textures.json
+faedac2af14d175616a50e9b08261ecc
+/config/antiqueatlas/tileids.json
+33155192fb405e6d1dcb0743f03b4792
 /config/chiselsandbits.cfg
 fcc044fd951e3ca6310d71be87d254a3
 /config/alternatingflux.cfg
@@ -1990,8 +2010,16 @@ efbec849375d863265e255fabff6f3a3
 de240f452236676cd1543378bbcd3ba5
 /config/pyrotech/plugin.Patchouli.cfg
 1905d2f4bd092b933a7b73c16a63bd58
+/config/sereneseasons/seasons.cfg
+aa040499df7ed704e8e24afe23533306
+/config/sereneseasons/biome_info.json
+5014e427d8e7bc0443fb61704261c645
+/config/sereneseasons/cropfertility.cfg
+ebcd35913d37ea54f395d256f874381a
 /config/swordskillsapi.cfg
 6a406291fbae0b94d1c4091d7c902784
+/config/notreepunching.cfg
+63a9f14dbb1a80c0aba93c6244237e06
 /config/randompatches.cfg
 5867cc9eeb83bb5a94d8212f66bc1b18
 /config/pdp.cfg

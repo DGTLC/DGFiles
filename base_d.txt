@@ -33,14 +33,17 @@
 /config/fpsreducer
 /config/ReWIRED
 /config/tetra
+/config/itlt
 /config/waila
 /config/waila/theme
 /config/toughasnails
 /config/dsurround
 /config/advRocketry
 /config/spiceoflife
+/config/antiqueatlas
 /config/jeresources
 /config/pyrotech
+/config/sereneseasons
 /config/smoothfont
 /config/CustomMainMenu
 /assets
