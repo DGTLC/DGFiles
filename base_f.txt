@@ -1,3 +1,5 @@
+/mods/SereneSeasons-1.12.2-1.2.18-universal [Pory roku].jar
+ef89fab62d1914ea0e25d2c31b453695
 /mods/1.12.2/Forgelin-1.8.4 [BetterPortals Lib].jar
 2da79fce72265eab0541e565636d389d
 /mods/1.12.2/modtweaker-4.0.18 [Wspomagacz od CT].jar
@@ -150,6 +152,16 @@ d1d921d9bb092ee3b5fd193abe95db32
 e62798c555f5520c31a7efb68c0ba170
 /mods/memory_repo/blusunrize/ImmersiveEngineering-core/0.12-98/ImmersiveEngineering-core-0.12-98.jar
 1a54e0e65323328f814c139860e34475
+/mods/notreepunching-2.0.21 [Sama nazwa mowi lepszy start].jar
+1b1d9a8be7c0c0dfb9ceb5985014721c
+/mods/antiqueatlas-1.12.2-4.6.3 [Minimapka].jar
+2cafce41d88d5067bf9a9da6a8fc79a8
+/mods/itlt-1.12.2-1.0.3 [Doslowna transformacja okna mc].jar
+a0e93fb635fc5acad26d39207685d0e0
+/mods/Aquaculture-1.12.2-1.6.8 [Rybki i lowienie].jar
+168ee7ded8fa21d49700b99e8617c79b
+/mods/alcatrazcore-1.0.4 [Core dla NoTreePunching].jar
+e64b3abdcfadc9e4f895487e2fa7d822
 /scripts/PyroTech.zs
 a8f7f1c5dbb66e06e724f094c7d2aad6
 /scripts/04_pams_hc_ie_fermenter.zs
