@@ -1,5 +1,3 @@
-/mods/1.12.2/WorldProtector1.12.jar
-63dcde83dccec3d5970135859a5294ca
 /mods/1.12.2/modtweaker-4.0.18 [Wspomagacz od CT].jar
 d117e26e6b578b18d25848f578e86c3b
 /mods/1.12.2/DamageTilt-1.12.2-0.1.0 [Ruch kamery w strone dmg].jar
@@ -158,6 +156,8 @@ d2df966203a439ee154642f01f09955e
 08f5d4cf4987e8b099623052196d8f79
 /mods/1.12.2/alcatrazcore-1.0.4 [Core dla NoTreePunching].jar
 e64b3abdcfadc9e4f895487e2fa7d822
+/mods/1.12.2/worlddefender-1.0.0.jar
+8cb4940091da730f462bf877a26169a9
 /mods/1.12.2/bspkrsCore-universal-7.6.0.1.jar
 c916e0be02b2522054c22016faed7ed8
 /mods/1.12.2/OfflineSkins-1.12.2-v6-core.jar
