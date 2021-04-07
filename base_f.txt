@@ -48,6 +48,8 @@ bd76dd9467f3bc208d37b3c827e86c38
 aafea85e6d8619a6d30b9477f293112e
 /mods/1.12.2/refinedstorage-1.6.16.jar
 0b5e41f29c3ceb1db560531fef9f55a2
+/mods/1.12.2/infilter-2.0.0_Nieskonczony_filterek.jar
+ffb9b249bbc80133bb4e184b56d489b8
 /mods/1.12.2/locks-1.12.2-2.5.1 [Zamki i inne wlamania xD].jar
 4edd554369a6c9e7fa50245acec7f65d
 /mods/1.12.2/0unloader-1.2.0 [Rozładowywanie chunkow]D.jar
