@@ -12,6 +12,16 @@
 
 // ================================================================================
 //#MARKER REMOVE
+recipes.remove(<extratan:empty_flask>);
+recipes.remove(<chiselsandbits:bitsaw_diamond>);
+recipes.remove(<chiselsandbits:wrench_wood>);
+recipes.remove(<chiselsandbits:mirrorprint>);
+recipes.remove(<chiselsandbits:negativeprint>);
+recipes.remove(<chiselsandbits:positiveprint>);
+recipes.remove(<chiselsandbits:chisel_gold>);
+recipes.remove(<chiselsandbits:chisel_iron>);
+recipes.remove(<chiselsandbits:chisel_diamond>);
+recipes.remove(<chiselsandbits:chisel_stone>);
 recipes.remove(<harvestcraft:shippingbin>);
 recipes.remove(<harvestcraft:market>);
 recipes.remove(<locks:key_blank>);
