@@ -74,8 +74,6 @@ b836648006f1451c65d33f7132eec770
 8d5500c19c06b758705071ab9c64d812
 /mods/1.12.2/AppleCore-mc1.12.2-3.4.0 [SpiceOfLife lib].jar
 a8dd635a81fed59be0d18206fd383f6e
-/mods/1.12.2/corpse-1.12.2-1.0.8 [Ciala po smierci].jar
-d79e51706d18eab2ccfa0070c0b7592b
 /mods/1.12.2/craftingstation-0.1.8a [CraftingTable z Tinkersa].jar
 587008d6892acd1d2f4c1b01447c16e3
 /mods/1.12.2/CraftTweaker2-1.12-4.1.20.601 [Wiadomo].jar
@@ -173,7 +171,7 @@ e62798c555f5520c31a7efb68c0ba170
 /scripts/04_pams_hc_ie_fermenter.zs
 a354da131ad5b1f7df2d346ec5ab0dfb
 /scripts/MineTweakerRecipeMaker.zs
-a581eed0154ddf1dbf2c67ee0d373c4b
+3d680a8bae94adfde85e26280cf6bfb0
 /java/bin/policytool.exe
 1fcd594ea6cc06b9a7f85dfe0883c0f6
 /java/bin/tnameserv.exe
